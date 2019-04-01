@@ -1,0 +1,3126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">abbreviation</Data></Cell>
+			<Cell><Data ss:Type="String">name</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">A</Data></Cell>
+			<Cell><Data ss:Type="String">Augsburg (Stadt und Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">AA</Data></Cell>
+			<Cell><Data ss:Type="String">Ostalbkreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">AB</Data></Cell>
+			<Cell><Data ss:Type="String">Aschaffenburg (Stadt und Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ABG</Data></Cell>
+			<Cell><Data ss:Type="String">Altenburger Land</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ABI</Data></Cell>
+			<Cell><Data ss:Type="String">Anhalt-Bitterfeld</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">AC</Data></Cell>
+			<Cell><Data ss:Type="String">Aachen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">AE</Data></Cell>
+			<Cell><Data ss:Type="String">Vogtlandkreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">AH</Data></Cell>
+			<Cell><Data ss:Type="String">Borken</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">AIB</Data></Cell>
+			<Cell><Data ss:Type="String">Rosenheim, Landkreis München</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">AIC</Data></Cell>
+			<Cell><Data ss:Type="String">Aichach-Friedberg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">AK</Data></Cell>
+			<Cell><Data ss:Type="String">Altenkirchen Westerwald</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">AL</Data></Cell>
+			<Cell><Data ss:Type="String">Altena</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ALF</Data></Cell>
+			<Cell><Data ss:Type="String">Hildesheim</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ALS</Data></Cell>
+			<Cell><Data ss:Type="String">Vogelsbergkreis in Alsfeld Oberhessen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ALZ</Data></Cell>
+			<Cell><Data ss:Type="String">Aschaffenburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">AM</Data></Cell>
+			<Cell><Data ss:Type="String">Amberg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">AN</Data></Cell>
+			<Cell><Data ss:Type="String">Ansbach (Stadt und Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ANA</Data></Cell>
+			<Cell><Data ss:Type="String">Erzgebirgskreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ANG</Data></Cell>
+			<Cell><Data ss:Type="String">Angermünde</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ANK</Data></Cell>
+			<Cell><Data ss:Type="String">Vorpommern-Greifswald</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">AÖ</Data></Cell>
+			<Cell><Data ss:Type="String">Altötting</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">AP</Data></Cell>
+			<Cell><Data ss:Type="String">Weimarer Land</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">APD</Data></Cell>
+			<Cell><Data ss:Type="String">Weimarer Land</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">AR</Data></Cell>
+			<Cell><Data ss:Type="String">Arnsberg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ARN</Data></Cell>
+			<Cell><Data ss:Type="String">Ilm-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ART</Data></Cell>
+			<Cell><Data ss:Type="String">Kyffhäuserkreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">AS</Data></Cell>
+			<Cell><Data ss:Type="String">Amberg-Sulzbach</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ASD</Data></Cell>
+			<Cell><Data ss:Type="String">Aschendorf-Hümmeling in Papenburg-Aschendorf</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ASL</Data></Cell>
+			<Cell><Data ss:Type="String">Salzlandkreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ASZ</Data></Cell>
+			<Cell><Data ss:Type="String">Erzgebirgskreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">AT</Data></Cell>
+			<Cell><Data ss:Type="String">Mecklenburgische Seenplatte</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">AU</Data></Cell>
+			<Cell><Data ss:Type="String">Erzgebirgskreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">AUR</Data></Cell>
+			<Cell><Data ss:Type="String">Aurich</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">AW</Data></Cell>
+			<Cell><Data ss:Type="String">Ahrweiler</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">AZ</Data></Cell>
+			<Cell><Data ss:Type="String">Alzey-Worms</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">AZE</Data></Cell>
+			<Cell><Data ss:Type="String">Anhalt-Bitterfeld</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">B</Data></Cell>
+			<Cell><Data ss:Type="String">Berlin</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BA</Data></Cell>
+			<Cell><Data ss:Type="String">Bamberg (Stadt und Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BAD</Data></Cell>
+			<Cell><Data ss:Type="String">Baden-Baden</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BAR</Data></Cell>
+			<Cell><Data ss:Type="String">Barnim</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BB</Data></Cell>
+			<Cell><Data ss:Type="String">Böblingen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BBG</Data></Cell>
+			<Cell><Data ss:Type="String">Salzlandkreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BC</Data></Cell>
+			<Cell><Data ss:Type="String">Biberach</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BCH</Data></Cell>
+			<Cell><Data ss:Type="String">Neckar-Odenwald-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BE</Data></Cell>
+			<Cell><Data ss:Type="String">Beckum</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BED</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Mittelsachsen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BEI</Data></Cell>
+			<Cell><Data ss:Type="String">Beilngries</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BEL</Data></Cell>
+			<Cell><Data ss:Type="String">Belzig</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BER</Data></Cell>
+			<Cell><Data ss:Type="String">Barnim</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BF</Data></Cell>
+			<Cell><Data ss:Type="String">Steinfurt</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BGD</Data></Cell>
+			<Cell><Data ss:Type="String">Berchtesgaden</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BGL</Data></Cell>
+			<Cell><Data ss:Type="String">Berchtesgadener Land</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BH</Data></Cell>
+			<Cell><Data ss:Type="String">Bühl Baden</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BI</Data></Cell>
+			<Cell><Data ss:Type="String">Bielefeld</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BID</Data></Cell>
+			<Cell><Data ss:Type="String">Marburg-Biedenkopf</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BIN</Data></Cell>
+			<Cell><Data ss:Type="String">Mainz-Bingen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BIR</Data></Cell>
+			<Cell><Data ss:Type="String">Birkenfeld Nahe Kreis, Idar-Oberstein</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BIT</Data></Cell>
+			<Cell><Data ss:Type="String">Bitburg-Prüm (Eifelkreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BIW</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Bautzen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BK</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Börde</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BK</Data></Cell>
+			<Cell><Data ss:Type="String">Backnang</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BKS</Data></Cell>
+			<Cell><Data ss:Type="String">Bernkastel-Wittlich</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BL</Data></Cell>
+			<Cell><Data ss:Type="String">Zollernalbkreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BLB</Data></Cell>
+			<Cell><Data ss:Type="String">Siegen-Wittgenstein</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BLK</Data></Cell>
+			<Cell><Data ss:Type="String">Burgenlandkreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BM</Data></Cell>
+			<Cell><Data ss:Type="String">Rhein-Erft-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BN</Data></Cell>
+			<Cell><Data ss:Type="String">Bonn</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BNA</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Leipzig</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BO</Data></Cell>
+			<Cell><Data ss:Type="String">Bochum</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BÖ</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Börde</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BOG</Data></Cell>
+			<Cell><Data ss:Type="String">Bogen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BOH</Data></Cell>
+			<Cell><Data ss:Type="String">Borken</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BOH</Data></Cell>
+			<Cell><Data ss:Type="String">Bocholt, Stadt</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BOR</Data></Cell>
+			<Cell><Data ss:Type="String">Borken</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BOT</Data></Cell>
+			<Cell><Data ss:Type="String">Bottrop</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BR</Data></Cell>
+			<Cell><Data ss:Type="String">Bruchsal</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BRA</Data></Cell>
+			<Cell><Data ss:Type="String">Wesermarsch</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BRB</Data></Cell>
+			<Cell><Data ss:Type="String">Brandenburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BRG</Data></Cell>
+			<Cell><Data ss:Type="String">Jerichower Land</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BRI</Data></Cell>
+			<Cell><Data ss:Type="String">Brilon</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BRK</Data></Cell>
+			<Cell><Data ss:Type="String">Bad Kissingen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BRL</Data></Cell>
+			<Cell><Data ss:Type="String">Goslar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BRV</Data></Cell>
+			<Cell><Data ss:Type="String">Rotenburg (Wümme)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BS</Data></Cell>
+			<Cell><Data ss:Type="String">Braunschweig</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BSB</Data></Cell>
+			<Cell><Data ss:Type="String">Bersenbrück</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BSK</Data></Cell>
+			<Cell><Data ss:Type="String">Beeskow</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BT</Data></Cell>
+			<Cell><Data ss:Type="String">Bayreuth (Stadt und Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BTF</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Anhalt-Bitterfeld</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BU</Data></Cell>
+			<Cell><Data ss:Type="String">Burgdorf</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BÜD</Data></Cell>
+			<Cell><Data ss:Type="String">Wetteraukreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BUL</Data></Cell>
+			<Cell><Data ss:Type="String">Schwandorf, Amberg-Sulzbach</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BÜR</Data></Cell>
+			<Cell><Data ss:Type="String">Büren</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BÜS</Data></Cell>
+			<Cell><Data ss:Type="String">Konstanz, Gemeinde Büsingen am Hochrhein</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BÜZ</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Rostock</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BZ</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Bautzen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">BZA</Data></Cell>
+			<Cell><Data ss:Type="String">Bergzabern</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">C</Data></Cell>
+			<Cell><Data ss:Type="String">Chemnitz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CA</Data></Cell>
+			<Cell><Data ss:Type="String">Oberspreewald-Lausitz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CAS</Data></Cell>
+			<Cell><Data ss:Type="String">Recklinghausen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CB</Data></Cell>
+			<Cell><Data ss:Type="String">Cottbus</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CE</Data></Cell>
+			<Cell><Data ss:Type="String">Celle</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CHA</Data></Cell>
+			<Cell><Data ss:Type="String">Cham</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CLP</Data></Cell>
+			<Cell><Data ss:Type="String">Cloppenburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CLZ</Data></Cell>
+			<Cell><Data ss:Type="String">Goslar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CO</Data></Cell>
+			<Cell><Data ss:Type="String">Coburg (Stadt und Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">COC</Data></Cell>
+			<Cell><Data ss:Type="String">Cochem-Zell</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">COE</Data></Cell>
+			<Cell><Data ss:Type="String">Coesfeld</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CR</Data></Cell>
+			<Cell><Data ss:Type="String">Crailsheim</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CUX</Data></Cell>
+			<Cell><Data ss:Type="String">Cuxhaven</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">CW</Data></Cell>
+			<Cell><Data ss:Type="String">Calw</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">D</Data></Cell>
+			<Cell><Data ss:Type="String">Düsseldorf</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DA</Data></Cell>
+			<Cell><Data ss:Type="String">Darmstadt</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DA</Data></Cell>
+			<Cell><Data ss:Type="String">Darmstadt-Dieburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DAH</Data></Cell>
+			<Cell><Data ss:Type="String">Dachau</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DAN</Data></Cell>
+			<Cell><Data ss:Type="String">Lüchow-Dannenberg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DAU</Data></Cell>
+			<Cell><Data ss:Type="String">Daun</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DBR</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Rostock</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DBR</Data></Cell>
+			<Cell><Data ss:Type="String">Bad Doberan</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DD</Data></Cell>
+			<Cell><Data ss:Type="String">Dresden</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DE</Data></Cell>
+			<Cell><Data ss:Type="String">Dessau-Roßlau</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DEG</Data></Cell>
+			<Cell><Data ss:Type="String">Deggendorf</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DEL</Data></Cell>
+			<Cell><Data ss:Type="String">Delmenhorst</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DGF</Data></Cell>
+			<Cell><Data ss:Type="String">Dingolfing-Landau</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DH</Data></Cell>
+			<Cell><Data ss:Type="String">Diepholz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DI</Data></Cell>
+			<Cell><Data ss:Type="String">Darmstadt-Dieburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DIL</Data></Cell>
+			<Cell><Data ss:Type="String">Dillkreis in Dillenburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DIN</Data></Cell>
+			<Cell><Data ss:Type="String">Wesel</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DIZ</Data></Cell>
+			<Cell><Data ss:Type="String">Rhein-Lahn-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DKB</Data></Cell>
+			<Cell><Data ss:Type="String">Ansbach</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DL</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Mittelsachsen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DLG</Data></Cell>
+			<Cell><Data ss:Type="String">Dillingen an der Donau</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DM</Data></Cell>
+			<Cell><Data ss:Type="String">Mecklenburgische Seenplatte</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DN</Data></Cell>
+			<Cell><Data ss:Type="String">Düren</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DO</Data></Cell>
+			<Cell><Data ss:Type="String">Dortmund</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DON</Data></Cell>
+			<Cell><Data ss:Type="String">Donau-Ries</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DS</Data></Cell>
+			<Cell><Data ss:Type="String">Donauschingen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DT</Data></Cell>
+			<Cell><Data ss:Type="String">Lippe in Detmold</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DU</Data></Cell>
+			<Cell><Data ss:Type="String">Duisburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DUD</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Göttingen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DÜW</Data></Cell>
+			<Cell><Data ss:Type="String">Bad Dürkheim</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DW</Data></Cell>
+			<Cell><Data ss:Type="String">Sächsische Schweiz-Osterzgebirge</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">DZ</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Nordsachsen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">E</Data></Cell>
+			<Cell><Data ss:Type="String">Essen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EA</Data></Cell>
+			<Cell><Data ss:Type="String">Eisenach</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EB</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Nordsachsen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EBE</Data></Cell>
+			<Cell><Data ss:Type="String">Ebersberg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EBN</Data></Cell>
+			<Cell><Data ss:Type="String">Ebern</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EBS</Data></Cell>
+			<Cell><Data ss:Type="String">Kulmbach, Bayreuth, Forchheim</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ECK</Data></Cell>
+			<Cell><Data ss:Type="String">Rendsburg-Eckernförde</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ED</Data></Cell>
+			<Cell><Data ss:Type="String">Erding</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EE</Data></Cell>
+			<Cell><Data ss:Type="String">Elbe-Elster</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EF</Data></Cell>
+			<Cell><Data ss:Type="String">Erfurt</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EG</Data></Cell>
+			<Cell><Data ss:Type="String">Rottal-Inn</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EH</Data></Cell>
+			<Cell><Data ss:Type="String">Eisenhüttenstadt</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EHI</Data></Cell>
+			<Cell><Data ss:Type="String">Ehingen Donau</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EI</Data></Cell>
+			<Cell><Data ss:Type="String">Eichstätt</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EIC</Data></Cell>
+			<Cell><Data ss:Type="String">Eichsfeld</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EIH</Data></Cell>
+			<Cell><Data ss:Type="String">Eichstätt</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EIL</Data></Cell>
+			<Cell><Data ss:Type="String">Mansfeld-Südharz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EIN</Data></Cell>
+			<Cell><Data ss:Type="String">Northeim</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EIS</Data></Cell>
+			<Cell><Data ss:Type="String">Saale-Holzland-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EL</Data></Cell>
+			<Cell><Data ss:Type="String">Emsland</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EM</Data></Cell>
+			<Cell><Data ss:Type="String">Emmendingen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EMD</Data></Cell>
+			<Cell><Data ss:Type="String">Emden</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EMS</Data></Cell>
+			<Cell><Data ss:Type="String">Rhein-Lahn-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EN</Data></Cell>
+			<Cell><Data ss:Type="String">Ennepe-Ruhr-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ER</Data></Cell>
+			<Cell><Data ss:Type="String">Erlangen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ERB</Data></Cell>
+			<Cell><Data ss:Type="String">Odenwaldkreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ERH</Data></Cell>
+			<Cell><Data ss:Type="String">Erlangen-Höchstadt</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ERK</Data></Cell>
+			<Cell><Data ss:Type="String">Erkelenz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ERZ</Data></Cell>
+			<Cell><Data ss:Type="String">Erzgebirgskreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ES</Data></Cell>
+			<Cell><Data ss:Type="String">Esslingen am Neckar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ESA</Data></Cell>
+			<Cell><Data ss:Type="String">Eisennach</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ESB</Data></Cell>
+			<Cell><Data ss:Type="String">Neustadt a. d. Waldnaab, Amberg-Sulzbach, Bayreuth, Nürnberger Land</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ESW</Data></Cell>
+			<Cell><Data ss:Type="String">Werra-Meißner-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EU</Data></Cell>
+			<Cell><Data ss:Type="String">Euskirchen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EUT</Data></Cell>
+			<Cell><Data ss:Type="String">Eutin</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">EW</Data></Cell>
+			<Cell><Data ss:Type="String">Barnim</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">F</Data></Cell>
+			<Cell><Data ss:Type="String">Frankfurt am Main</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FAL</Data></Cell>
+			<Cell><Data ss:Type="String">Fallingborstel</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FB</Data></Cell>
+			<Cell><Data ss:Type="String">Wetteraukreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FD</Data></Cell>
+			<Cell><Data ss:Type="String">Fulda</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FDB</Data></Cell>
+			<Cell><Data ss:Type="String">Aichach-Friedberg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FDS</Data></Cell>
+			<Cell><Data ss:Type="String">Freudenstadt</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FEU</Data></Cell>
+			<Cell><Data ss:Type="String">Ansbach</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FF</Data></Cell>
+			<Cell><Data ss:Type="String">Frankfurt (Oder)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FFB</Data></Cell>
+			<Cell><Data ss:Type="String">Fürstenfeldbruck</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FG</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Mittelsachsen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FH</Data></Cell>
+			<Cell><Data ss:Type="String">Main-Taunus-Kreis in Frankfurt Main-Höchst</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FI</Data></Cell>
+			<Cell><Data ss:Type="String">Elbe-Elster</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FKB</Data></Cell>
+			<Cell><Data ss:Type="String">Frankenberg Eder</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FL</Data></Cell>
+			<Cell><Data ss:Type="String">Flensburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FLÖ</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Mittelsachsen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FN</Data></Cell>
+			<Cell><Data ss:Type="String">Bodenseekreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FO</Data></Cell>
+			<Cell><Data ss:Type="String">Forchheim</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FOR</Data></Cell>
+			<Cell><Data ss:Type="String">Spree-Neiße</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FR</Data></Cell>
+			<Cell><Data ss:Type="String">Freiburg im Breisgau</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FR</Data></Cell>
+			<Cell><Data ss:Type="String">Breisgau-Hochschwarzwald</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FRG</Data></Cell>
+			<Cell><Data ss:Type="String">Freyung-Grafenau</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FRI</Data></Cell>
+			<Cell><Data ss:Type="String">Friesland</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FRW</Data></Cell>
+			<Cell><Data ss:Type="String">Märkisch-Oderland</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FS</Data></Cell>
+			<Cell><Data ss:Type="String">Freising</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FT</Data></Cell>
+			<Cell><Data ss:Type="String">Frankenthal</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FTL</Data></Cell>
+			<Cell><Data ss:Type="String">Sächsische Schweiz-Osterzgebirge</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FÜ</Data></Cell>
+			<Cell><Data ss:Type="String">Fürth (Stadt und Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FÜS</Data></Cell>
+			<Cell><Data ss:Type="String">Ostallgäu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FW</Data></Cell>
+			<Cell><Data ss:Type="String">Fürstenwalde</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">FZ</Data></Cell>
+			<Cell><Data ss:Type="String">Fritzlar-Homberg in Fritzlar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">G</Data></Cell>
+			<Cell><Data ss:Type="String">Gera</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GA</Data></Cell>
+			<Cell><Data ss:Type="String">Altmarkkreis-Salzwedel</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GAN</Data></Cell>
+			<Cell><Data ss:Type="String">Northeim</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GAP</Data></Cell>
+			<Cell><Data ss:Type="String">Garmisch-Partenkirchen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GC</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Zwickau</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GD</Data></Cell>
+			<Cell><Data ss:Type="String">Ostalbkreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GD</Data></Cell>
+			<Cell><Data ss:Type="String">Schwäbisch Gmünd</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GDB</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Nordwestmecklenburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GE</Data></Cell>
+			<Cell><Data ss:Type="String">Gelsenkirchen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GEL</Data></Cell>
+			<Cell><Data ss:Type="String">Geldern</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GEM</Data></Cell>
+			<Cell><Data ss:Type="String">Gemünden am Main</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GEO</Data></Cell>
+			<Cell><Data ss:Type="String">Schweinfurt</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GER</Data></Cell>
+			<Cell><Data ss:Type="String">Germersheim</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GF</Data></Cell>
+			<Cell><Data ss:Type="String">Gifhorn</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GG</Data></Cell>
+			<Cell><Data ss:Type="String">Groß-Gerau</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GHA</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Leipzig</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GHC</Data></Cell>
+			<Cell><Data ss:Type="String">Wittenberg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GI</Data></Cell>
+			<Cell><Data ss:Type="String">Gießen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GK</Data></Cell>
+			<Cell><Data ss:Type="String">Region Aachen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GL</Data></Cell>
+			<Cell><Data ss:Type="String">Rheinisch-Bergischer Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GLA</Data></Cell>
+			<Cell><Data ss:Type="String">Recklinghausen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GM</Data></Cell>
+			<Cell><Data ss:Type="String">Oberbergischer Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GMN</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Vorpommern-Rügen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GN</Data></Cell>
+			<Cell><Data ss:Type="String">Main-Kinzig-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GNT</Data></Cell>
+			<Cell><Data ss:Type="String">Jerichower Land</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GÖ</Data></Cell>
+			<Cell><Data ss:Type="String">Göttingen (Stadt und Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GOA</Data></Cell>
+			<Cell><Data ss:Type="String">Rhein-Hunsrück-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GOH</Data></Cell>
+			<Cell><Data ss:Type="String">Rhein-Lahn-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GP</Data></Cell>
+			<Cell><Data ss:Type="String">Göppingen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GR</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Görlitz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GRA</Data></Cell>
+			<Cell><Data ss:Type="String">Freyung-Grafenau</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GRH</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Meißen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GRI</Data></Cell>
+			<Cell><Data ss:Type="String">Rottal-Inn</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GRM</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Leipzig</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GRS</Data></Cell>
+			<Cell><Data ss:Type="String">Gransee</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GRZ</Data></Cell>
+			<Cell><Data ss:Type="String">Greiz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GS</Data></Cell>
+			<Cell><Data ss:Type="String">Goslar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GT</Data></Cell>
+			<Cell><Data ss:Type="String">Gütersloh</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GTH</Data></Cell>
+			<Cell><Data ss:Type="String">Gotha</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GÜ</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Rostock</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GUB</Data></Cell>
+			<Cell><Data ss:Type="String">Spree-Neiße</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GUN</Data></Cell>
+			<Cell><Data ss:Type="String">Weißenburg-Gunzenhausen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GV</Data></Cell>
+			<Cell><Data ss:Type="String">Grevenbroich</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GVM</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Nordwestmecklenburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GW</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Vorpommern-Greifswald</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">GZ</Data></Cell>
+			<Cell><Data ss:Type="String">Günzburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">H</Data></Cell>
+			<Cell><Data ss:Type="String">Hannover (Stadt und Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HA</Data></Cell>
+			<Cell><Data ss:Type="String">Hagen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HAB</Data></Cell>
+			<Cell><Data ss:Type="String">Bad Kissingen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HAL</Data></Cell>
+			<Cell><Data ss:Type="String">Halle (Saale)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HAM</Data></Cell>
+			<Cell><Data ss:Type="String">Hamm</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HAS</Data></Cell>
+			<Cell><Data ss:Type="String">Haßberge</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HB</Data></Cell>
+			<Cell><Data ss:Type="String">Freie Hansestadt Bremen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HBN</Data></Cell>
+			<Cell><Data ss:Type="String">Hildburghausen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HBS</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Harz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HC</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Mittelsachsen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HCH</Data></Cell>
+			<Cell><Data ss:Type="String">Zollernalbkreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HCH</Data></Cell>
+			<Cell><Data ss:Type="String">Hechingen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HD</Data></Cell>
+			<Cell><Data ss:Type="String">Heidelberg (Stadt und Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HDH</Data></Cell>
+			<Cell><Data ss:Type="String">Heidenheim (Brenz)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HDL</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Börde</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HE</Data></Cell>
+			<Cell><Data ss:Type="String">Helmstedt</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HEB</Data></Cell>
+			<Cell><Data ss:Type="String">Nürnberger Land</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HEF</Data></Cell>
+			<Cell><Data ss:Type="String">Hersfeld-Rotenburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HEI</Data></Cell>
+			<Cell><Data ss:Type="String">Dithmarschen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HER</Data></Cell>
+			<Cell><Data ss:Type="String">Herne</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HET</Data></Cell>
+			<Cell><Data ss:Type="String">Mansfeld-Südharz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HF</Data></Cell>
+			<Cell><Data ss:Type="String">Herford</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HG</Data></Cell>
+			<Cell><Data ss:Type="String">Hochtaunuskreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HGN</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Ludwigslust-Parchim</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HGW</Data></Cell>
+			<Cell><Data ss:Type="String">Hansestadt Greifswald</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HH</Data></Cell>
+			<Cell><Data ss:Type="String">Freie und Hansestadt Hamburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HHM</Data></Cell>
+			<Cell><Data ss:Type="String">Burgenlandkreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HI</Data></Cell>
+			<Cell><Data ss:Type="String">Hildesheim</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HIG</Data></Cell>
+			<Cell><Data ss:Type="String">Eichsfeld</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HIP</Data></Cell>
+			<Cell><Data ss:Type="String">Roth</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HK</Data></Cell>
+			<Cell><Data ss:Type="String">Heidekreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HL</Data></Cell>
+			<Cell><Data ss:Type="String">Hansestadt Lübeck</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HM</Data></Cell>
+			<Cell><Data ss:Type="String">Hameln-Pyrmont</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HMÜ</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Göttingen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HN</Data></Cell>
+			<Cell><Data ss:Type="String">Heilbronn Neckar (Stadt und Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HO</Data></Cell>
+			<Cell><Data ss:Type="String">Hof (Stadt und Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HOG</Data></Cell>
+			<Cell><Data ss:Type="String">Kassel (Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HOH</Data></Cell>
+			<Cell><Data ss:Type="String">Hofhein in Unterfranken</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HOL</Data></Cell>
+			<Cell><Data ss:Type="String">Holzminden</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HOM</Data></Cell>
+			<Cell><Data ss:Type="String">Saarpfalz-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HOR</Data></Cell>
+			<Cell><Data ss:Type="String">Horb Neckar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HÖS</Data></Cell>
+			<Cell><Data ss:Type="String">Höchstadt an der Aisch</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HOT</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Zwickau</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HP</Data></Cell>
+			<Cell><Data ss:Type="String">Bergstraße</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HR</Data></Cell>
+			<Cell><Data ss:Type="String">Schwalm-Eder-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HRO</Data></Cell>
+			<Cell><Data ss:Type="String">Hansestadt Rostock</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HS</Data></Cell>
+			<Cell><Data ss:Type="String">Heinsberg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HSK</Data></Cell>
+			<Cell><Data ss:Type="String">Hochsauerlandkreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HST</Data></Cell>
+			<Cell><Data ss:Type="String">Hansestadt Stralsund</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HU</Data></Cell>
+			<Cell><Data ss:Type="String">Main-Kinzig-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HÜN</Data></Cell>
+			<Cell><Data ss:Type="String">Hünfeld</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HUS</Data></Cell>
+			<Cell><Data ss:Type="String">Husum</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HV</Data></Cell>
+			<Cell><Data ss:Type="String">Stendal</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HVL</Data></Cell>
+			<Cell><Data ss:Type="String">Havelland</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HW</Data></Cell>
+			<Cell><Data ss:Type="String">Halle</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HWI</Data></Cell>
+			<Cell><Data ss:Type="String">Hansestadt Wismar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HX</Data></Cell>
+			<Cell><Data ss:Type="String">Höxter</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HY</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Bautzen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HZ</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Harz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">HZ</Data></Cell>
+			<Cell><Data ss:Type="String">Herzberg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">IGB</Data></Cell>
+			<Cell><Data ss:Type="String">St. Ingbert</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">IK</Data></Cell>
+			<Cell><Data ss:Type="String">Ilm-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">IL</Data></Cell>
+			<Cell><Data ss:Type="String">Ilm-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ILL</Data></Cell>
+			<Cell><Data ss:Type="String">Neu-Ulm</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">IN</Data></Cell>
+			<Cell><Data ss:Type="String">Ingolstadt</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">IS</Data></Cell>
+			<Cell><Data ss:Type="String">Iserlohn</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">IZ</Data></Cell>
+			<Cell><Data ss:Type="String">Steinburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">J</Data></Cell>
+			<Cell><Data ss:Type="String">Jena</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">JB</Data></Cell>
+			<Cell><Data ss:Type="String">Jüterbog</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">JE</Data></Cell>
+			<Cell><Data ss:Type="String">Wittenberg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">JEV</Data></Cell>
+			<Cell><Data ss:Type="String">Friesland in Jever</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">JL</Data></Cell>
+			<Cell><Data ss:Type="String">Jerichower Land</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">JÜL</Data></Cell>
+			<Cell><Data ss:Type="String">Düren</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">K</Data></Cell>
+			<Cell><Data ss:Type="String">Köln</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KA</Data></Cell>
+			<Cell><Data ss:Type="String">Karlsruhe (Stadt und Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KAR</Data></Cell>
+			<Cell><Data ss:Type="String">Main-Spessart in Karlstadt</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KB</Data></Cell>
+			<Cell><Data ss:Type="String">Waldeck-Frankenberg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KC</Data></Cell>
+			<Cell><Data ss:Type="String">Kronach</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KE</Data></Cell>
+			<Cell><Data ss:Type="String">Kempten</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KEH</Data></Cell>
+			<Cell><Data ss:Type="String">Kelheim</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KEL</Data></Cell>
+			<Cell><Data ss:Type="String">Kehl</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KEM</Data></Cell>
+			<Cell><Data ss:Type="String">Tirschenreuth, Bayreuth</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KF</Data></Cell>
+			<Cell><Data ss:Type="String">Kaufbeuren</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KG</Data></Cell>
+			<Cell><Data ss:Type="String">Bad Kissingen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KH</Data></Cell>
+			<Cell><Data ss:Type="String">Bad Kreuznach</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KI</Data></Cell>
+			<Cell><Data ss:Type="String">Kiel</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KIB</Data></Cell>
+			<Cell><Data ss:Type="String">Donnersbergkreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KK</Data></Cell>
+			<Cell><Data ss:Type="String">Kempen-Krefeld in Karlstadt</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KL</Data></Cell>
+			<Cell><Data ss:Type="String">Kaiserslautern (Stadt und Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KLE</Data></Cell>
+			<Cell><Data ss:Type="String">Kleve</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KLZ</Data></Cell>
+			<Cell><Data ss:Type="String">Altmarkkreis-Salzwedel</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KM</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Bautzen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KN</Data></Cell>
+			<Cell><Data ss:Type="String">Konstanz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KO</Data></Cell>
+			<Cell><Data ss:Type="String">Koblenz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KÖN</Data></Cell>
+			<Cell><Data ss:Type="String">Rhön-Grabfeld</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KÖT</Data></Cell>
+			<Cell><Data ss:Type="String">Anhalt-Bitterfeld</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KÖZ</Data></Cell>
+			<Cell><Data ss:Type="String">Cham</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KR</Data></Cell>
+			<Cell><Data ss:Type="String">Krefeld</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KRU</Data></Cell>
+			<Cell><Data ss:Type="String">Günzburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KS</Data></Cell>
+			<Cell><Data ss:Type="String">Kassel (Stadt und Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KT</Data></Cell>
+			<Cell><Data ss:Type="String">Kitzingen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KU</Data></Cell>
+			<Cell><Data ss:Type="String">Kulmbach</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KÜN</Data></Cell>
+			<Cell><Data ss:Type="String">Hohenlohekreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KUS</Data></Cell>
+			<Cell><Data ss:Type="String">Kusel</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KW</Data></Cell>
+			<Cell><Data ss:Type="String">Königs Wusterhausen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KY</Data></Cell>
+			<Cell><Data ss:Type="String">Ostprignitz-Ruppin</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">KYF</Data></Cell>
+			<Cell><Data ss:Type="String">Kyffhäuserkreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">L</Data></Cell>
+			<Cell><Data ss:Type="String">Leipzig (Stadt und Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">L</Data></Cell>
+			<Cell><Data ss:Type="String">Lahn-Dill-Kreis in Wetzlar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LA</Data></Cell>
+			<Cell><Data ss:Type="String">Landshut (Stadt und Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LAN</Data></Cell>
+			<Cell><Data ss:Type="String">Landau an der Isar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LAT</Data></Cell>
+			<Cell><Data ss:Type="String">Vogelsbergkreis in Lauterbach Hessen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LAU</Data></Cell>
+			<Cell><Data ss:Type="String">Nürnberger Land</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LB</Data></Cell>
+			<Cell><Data ss:Type="String">Ludwigsburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LBS</Data></Cell>
+			<Cell><Data ss:Type="String">Saale-Orla-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LBZ</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Ludwigslust-Parchim</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LC</Data></Cell>
+			<Cell><Data ss:Type="String">Luckau</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LDK</Data></Cell>
+			<Cell><Data ss:Type="String">Lahn-Dill-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LDS</Data></Cell>
+			<Cell><Data ss:Type="String">Dahme-Spreewald</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LE</Data></Cell>
+			<Cell><Data ss:Type="String">Lemgo</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LEO</Data></Cell>
+			<Cell><Data ss:Type="String">Böblingen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LER</Data></Cell>
+			<Cell><Data ss:Type="String">Leer</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LEV</Data></Cell>
+			<Cell><Data ss:Type="String">Leverkusen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LF</Data></Cell>
+			<Cell><Data ss:Type="String">Laufen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LG</Data></Cell>
+			<Cell><Data ss:Type="String">Lüneburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LH</Data></Cell>
+			<Cell><Data ss:Type="String">Lüdinghausen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LI</Data></Cell>
+			<Cell><Data ss:Type="String">Lindau</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LIB</Data></Cell>
+			<Cell><Data ss:Type="String">Bad Liebenwerda</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LIF</Data></Cell>
+			<Cell><Data ss:Type="String">Lichtenfels</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LIN</Data></Cell>
+			<Cell><Data ss:Type="String">Lingen in Lingen (Ems)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LIP</Data></Cell>
+			<Cell><Data ss:Type="String">Lippe</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LK</Data></Cell>
+			<Cell><Data ss:Type="String">Lübbecke</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LL</Data></Cell>
+			<Cell><Data ss:Type="String">Landsberg am Lech</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LM</Data></Cell>
+			<Cell><Data ss:Type="String">Limburg-Weilburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LN</Data></Cell>
+			<Cell><Data ss:Type="String">Lübben</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LÖ</Data></Cell>
+			<Cell><Data ss:Type="String">Lörrach</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LÖB</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Görlitz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LOH</Data></Cell>
+			<Cell><Data ss:Type="String">Lohr am Main</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LOS</Data></Cell>
+			<Cell><Data ss:Type="String">Oder-Spree</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LP</Data></Cell>
+			<Cell><Data ss:Type="String">Soest</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LR</Data></Cell>
+			<Cell><Data ss:Type="String">Lahr Schwarzwald</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LRO</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Rostock</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LS</Data></Cell>
+			<Cell><Data ss:Type="String">Märkischer Kreis in Lüdenscheid</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LSZ</Data></Cell>
+			<Cell><Data ss:Type="String">Unstrut-Hainich-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LU</Data></Cell>
+			<Cell><Data ss:Type="String">Ludwigshafen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LÜD</Data></Cell>
+			<Cell><Data ss:Type="String">Lüdenscheid</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LUK</Data></Cell>
+			<Cell><Data ss:Type="String">Luckenwalde</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LÜN</Data></Cell>
+			<Cell><Data ss:Type="String">Unna</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LUP</Data></Cell>
+			<Cell><Data ss:Type="String">Ludwigslust-Parchim</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">LWL</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Ludwigslust-Parchim</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">M</Data></Cell>
+			<Cell><Data ss:Type="String">München (Stadt und Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MA</Data></Cell>
+			<Cell><Data ss:Type="String">Mannheim</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MAB</Data></Cell>
+			<Cell><Data ss:Type="String">Erzgebirgskreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MAI</Data></Cell>
+			<Cell><Data ss:Type="String">Kehlheim</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MAK</Data></Cell>
+			<Cell><Data ss:Type="String">Wunsiedel i. Fichtelgebirge</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MAL</Data></Cell>
+			<Cell><Data ss:Type="String">Mallersdorf</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MAR</Data></Cell>
+			<Cell><Data ss:Type="String">Marktheidenfeld</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MB</Data></Cell>
+			<Cell><Data ss:Type="String">Miesbach</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MC</Data></Cell>
+			<Cell><Data ss:Type="String">Mecklenburgische Seenplatte</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MD</Data></Cell>
+			<Cell><Data ss:Type="String">Magdeburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ME</Data></Cell>
+			<Cell><Data ss:Type="String">Mettmann</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MED</Data></Cell>
+			<Cell><Data ss:Type="String">Süderdithmarschen in Meldorf Holstein</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MEG</Data></Cell>
+			<Cell><Data ss:Type="String">Melsungen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MEI</Data></Cell>
+			<Cell><Data ss:Type="String">Meißen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MEK</Data></Cell>
+			<Cell><Data ss:Type="String">Erzgebirgskreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MEL</Data></Cell>
+			<Cell><Data ss:Type="String">Melle</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MEP</Data></Cell>
+			<Cell><Data ss:Type="String">Meppen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MER</Data></Cell>
+			<Cell><Data ss:Type="String">Saalekreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MES</Data></Cell>
+			<Cell><Data ss:Type="String">Hochsauerlandkreis in Meschede</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MET</Data></Cell>
+			<Cell><Data ss:Type="String">Rhön-Grabfeld</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MG</Data></Cell>
+			<Cell><Data ss:Type="String">Mönchengladbach</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MGH</Data></Cell>
+			<Cell><Data ss:Type="String">Bad Mergentheim</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MGN</Data></Cell>
+			<Cell><Data ss:Type="String">Schmalkalden-Meiningen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MH</Data></Cell>
+			<Cell><Data ss:Type="String">Mülheim an der Ruhr</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MHL</Data></Cell>
+			<Cell><Data ss:Type="String">Unstrut-Hainich-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MI</Data></Cell>
+			<Cell><Data ss:Type="String">Minden-Lübbecke</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MIL</Data></Cell>
+			<Cell><Data ss:Type="String">Miltenberg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MK</Data></Cell>
+			<Cell><Data ss:Type="String">Märkischer Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MKK</Data></Cell>
+			<Cell><Data ss:Type="String">Main-Kinzig-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ML</Data></Cell>
+			<Cell><Data ss:Type="String">Mansfeld-Südharz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MM</Data></Cell>
+			<Cell><Data ss:Type="String">Memmingen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MN</Data></Cell>
+			<Cell><Data ss:Type="String">Unterallgäu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MO</Data></Cell>
+			<Cell><Data ss:Type="String">Wesel</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MOD</Data></Cell>
+			<Cell><Data ss:Type="String">Ostallgäu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MOL</Data></Cell>
+			<Cell><Data ss:Type="String">Märkisch-Oderland</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MON</Data></Cell>
+			<Cell><Data ss:Type="String">Region Aachen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MOS</Data></Cell>
+			<Cell><Data ss:Type="String">Neckar-Odenwald-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MQ</Data></Cell>
+			<Cell><Data ss:Type="String">Saalekreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MR</Data></Cell>
+			<Cell><Data ss:Type="String">Marburg-Biedenkopf</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MS</Data></Cell>
+			<Cell><Data ss:Type="String">Münster</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MSE</Data></Cell>
+			<Cell><Data ss:Type="String">Mecklenburgische Seenplatte</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MSH</Data></Cell>
+			<Cell><Data ss:Type="String">Mansfeld-Südharz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MSP</Data></Cell>
+			<Cell><Data ss:Type="String">Main-Spessart</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MST</Data></Cell>
+			<Cell><Data ss:Type="String">Mecklenburgische Seenplatte</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MT</Data></Cell>
+			<Cell><Data ss:Type="String">Westerwald in Motabaur</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MTK</Data></Cell>
+			<Cell><Data ss:Type="String">Main-Taunus-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MTL</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Leipzig</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MÜ</Data></Cell>
+			<Cell><Data ss:Type="String">Mühldorf am Inn</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MÜB</Data></Cell>
+			<Cell><Data ss:Type="String">Bayreuth</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MÜL</Data></Cell>
+			<Cell><Data ss:Type="String">Müllheim Baden</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MÜN</Data></Cell>
+			<Cell><Data ss:Type="String">Münsingen Württemberg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MÜR</Data></Cell>
+			<Cell><Data ss:Type="String">Mecklenburgische Seenplatte</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MW</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Mittelsachsen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MY</Data></Cell>
+			<Cell><Data ss:Type="String">Mayen-Koblenz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MYK</Data></Cell>
+			<Cell><Data ss:Type="String">Mayen-Koblenz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MZ</Data></Cell>
+			<Cell><Data ss:Type="String">Mainz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MZ</Data></Cell>
+			<Cell><Data ss:Type="String">Mainz-Bingen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">MZG</Data></Cell>
+			<Cell><Data ss:Type="String">Merzig-Wadern</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">N</Data></Cell>
+			<Cell><Data ss:Type="String">Nürnberg, Nürnberger Land</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NAB</Data></Cell>
+			<Cell><Data ss:Type="String">Amberg-Sulzbach, Schwandorf</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NAI</Data></Cell>
+			<Cell><Data ss:Type="String">Naila</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NAU</Data></Cell>
+			<Cell><Data ss:Type="String">Nauen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NB</Data></Cell>
+			<Cell><Data ss:Type="String">Neubrandenburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ND</Data></Cell>
+			<Cell><Data ss:Type="String">Neuburg-Schrobenhausen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NDH</Data></Cell>
+			<Cell><Data ss:Type="String">Nordhausen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NE</Data></Cell>
+			<Cell><Data ss:Type="String">Rhein-Kreis Neuss</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NEA</Data></Cell>
+			<Cell><Data ss:Type="String">Neustadt an der Aisch</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NEB</Data></Cell>
+			<Cell><Data ss:Type="String">Burgenlandkreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NEC</Data></Cell>
+			<Cell><Data ss:Type="String">Coburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NEN</Data></Cell>
+			<Cell><Data ss:Type="String">Schwandorf</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NES</Data></Cell>
+			<Cell><Data ss:Type="String">Rhön-Grabfeld</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NEU</Data></Cell>
+			<Cell><Data ss:Type="String">Hochschwarzwald in Titisee-Neustadt im Hochschwarzwald</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NEW</Data></Cell>
+			<Cell><Data ss:Type="String">Neustadt an der Waldnaab</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NF</Data></Cell>
+			<Cell><Data ss:Type="String">Nordfriesland</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NH</Data></Cell>
+			<Cell><Data ss:Type="String">Sonneberg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NI</Data></Cell>
+			<Cell><Data ss:Type="String">Nienburg/Weser</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NIB</Data></Cell>
+			<Cell><Data ss:Type="String">Südtondern in Niebüll Schleswig</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NK</Data></Cell>
+			<Cell><Data ss:Type="String">Neunkirchen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NM</Data></Cell>
+			<Cell><Data ss:Type="String">Neumarkt in der Oberpfalz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NMB</Data></Cell>
+			<Cell><Data ss:Type="String">Burgenlandkreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NMS</Data></Cell>
+			<Cell><Data ss:Type="String">Neumünster</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NÖ</Data></Cell>
+			<Cell><Data ss:Type="String">Donau-Ries</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NOH</Data></Cell>
+			<Cell><Data ss:Type="String">Grafschaft Bentheim</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NOL</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Görlitz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NOM</Data></Cell>
+			<Cell><Data ss:Type="String">Northeim</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NOR</Data></Cell>
+			<Cell><Data ss:Type="String">Aurich</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NP</Data></Cell>
+			<Cell><Data ss:Type="String">Ostprignitz-Ruppin</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NR</Data></Cell>
+			<Cell><Data ss:Type="String">Neuwied (Stadt und Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NRÜ</Data></Cell>
+			<Cell><Data ss:Type="String">Neustadt am Rübenberge</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NT</Data></Cell>
+			<Cell><Data ss:Type="String">Nürtingen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NU</Data></Cell>
+			<Cell><Data ss:Type="String">Neu-Ulm</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NVP</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Vorpommern-Rügen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NW</Data></Cell>
+			<Cell><Data ss:Type="String">Neustadt an der Weinstraße</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NWM</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Nordwestmecklenburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NY</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Görlitz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">NZ</Data></Cell>
+			<Cell><Data ss:Type="String">Mecklenburgische Seenplatte</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OA</Data></Cell>
+			<Cell><Data ss:Type="String">Oberallgäu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OAL</Data></Cell>
+			<Cell><Data ss:Type="String">Ostallgäu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OB</Data></Cell>
+			<Cell><Data ss:Type="String">Oberhausen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OBB</Data></Cell>
+			<Cell><Data ss:Type="String">Obernburg am Main</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OBG</Data></Cell>
+			<Cell><Data ss:Type="String">Stendal</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OC</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Börde</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OCH</Data></Cell>
+			<Cell><Data ss:Type="String">Würzburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OD</Data></Cell>
+			<Cell><Data ss:Type="String">Stormarn</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OE</Data></Cell>
+			<Cell><Data ss:Type="String">Olpe</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OF</Data></Cell>
+			<Cell><Data ss:Type="String">Offenbach (Stadt und Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OG</Data></Cell>
+			<Cell><Data ss:Type="String">Ortenaukreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OH</Data></Cell>
+			<Cell><Data ss:Type="String">Ostholstein</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OHA</Data></Cell>
+			<Cell><Data ss:Type="String">Osterode am Harz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ÖHR</Data></Cell>
+			<Cell><Data ss:Type="String">Öhringen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OHV</Data></Cell>
+			<Cell><Data ss:Type="String">Oberhavel</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OHZ</Data></Cell>
+			<Cell><Data ss:Type="String">Osterholz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OK</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Börde</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OL</Data></Cell>
+			<Cell><Data ss:Type="String">Oldenburg (Stadt und Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OLD</Data></Cell>
+			<Cell><Data ss:Type="String">Oldenburg/Holstein</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OP</Data></Cell>
+			<Cell><Data ss:Type="String">Rhein-Wupperkreis in Opladen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OPR</Data></Cell>
+			<Cell><Data ss:Type="String">Ostprignitz-Ruppin</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OR</Data></Cell>
+			<Cell><Data ss:Type="String">Oranienburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OS</Data></Cell>
+			<Cell><Data ss:Type="String">Osnabrück (Stadt und Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OSL</Data></Cell>
+			<Cell><Data ss:Type="String">Oberspreewald-Lausitz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTT</Data></Cell>
+			<Cell><Data ss:Type="String">Land Hadeln in Otterndorf</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OTW</Data></Cell>
+			<Cell><Data ss:Type="String">Ottweiler</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OVI</Data></Cell>
+			<Cell><Data ss:Type="String">Schwandorf</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OVL</Data></Cell>
+			<Cell><Data ss:Type="String">Vogtlandkreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OVP</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Vorpommern-Greifswald</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">OZ</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Nordsachsen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">P</Data></Cell>
+			<Cell><Data ss:Type="String">Potsdam</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PA</Data></Cell>
+			<Cell><Data ss:Type="String">Passau (Stadt und Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PAF</Data></Cell>
+			<Cell><Data ss:Type="String">Pfaffenhofen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PAN</Data></Cell>
+			<Cell><Data ss:Type="String">Rottal-Inn</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PAR</Data></Cell>
+			<Cell><Data ss:Type="String">Neumarkt i. d. Opf., Kehlheim</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PB</Data></Cell>
+			<Cell><Data ss:Type="String">Paderborn</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PCH</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Ludwigslust-Parchim</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PE</Data></Cell>
+			<Cell><Data ss:Type="String">Peine</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PEG</Data></Cell>
+			<Cell><Data ss:Type="String">Bayreuth, Forchheim, Nürnberger Land</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PER</Data></Cell>
+			<Cell><Data ss:Type="String">Perleberg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PF</Data></Cell>
+			<Cell><Data ss:Type="String">Pforzheim (Stadt und Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PI</Data></Cell>
+			<Cell><Data ss:Type="String">Pinneberg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PIR</Data></Cell>
+			<Cell><Data ss:Type="String">Sächsische Schweiz-Osterzgebirge</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PK</Data></Cell>
+			<Cell><Data ss:Type="String">Pritzwalk</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PL</Data></Cell>
+			<Cell><Data ss:Type="String">Vogtlandkreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PLÖ</Data></Cell>
+			<Cell><Data ss:Type="String">Plön</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PM</Data></Cell>
+			<Cell><Data ss:Type="String">Potsdam-Mittelmark</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PN</Data></Cell>
+			<Cell><Data ss:Type="String">Saale-Orla-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PR</Data></Cell>
+			<Cell><Data ss:Type="String">Prignitz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PRÜ</Data></Cell>
+			<Cell><Data ss:Type="String">Bitburg-Prüm</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PS</Data></Cell>
+			<Cell><Data ss:Type="String">Pirmasens (Stadt und Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PW</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Vorpommern-Greifswald</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">PZ</Data></Cell>
+			<Cell><Data ss:Type="String">Prenzlau</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">QFT</Data></Cell>
+			<Cell><Data ss:Type="String">Saalekreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">QLB</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Harz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">R</Data></Cell>
+			<Cell><Data ss:Type="String">Regensburg (Stadt und Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RA</Data></Cell>
+			<Cell><Data ss:Type="String">Rastatt</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RC</Data></Cell>
+			<Cell><Data ss:Type="String">Vogtlandkreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RD</Data></Cell>
+			<Cell><Data ss:Type="String">Rendsburg-Eckernförde</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RDG</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Vorpommern-Rügen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RE</Data></Cell>
+			<Cell><Data ss:Type="String">Recklinghausen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">REG</Data></Cell>
+			<Cell><Data ss:Type="String">Regen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">REH</Data></Cell>
+			<Cell><Data ss:Type="String">Wunsiedel i. Fichtelgebirge</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">REI</Data></Cell>
+			<Cell><Data ss:Type="String">Berchtesgadener Land in Bad Reichenhall</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RG</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Meißen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RH</Data></Cell>
+			<Cell><Data ss:Type="String">Roth</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RI</Data></Cell>
+			<Cell><Data ss:Type="String">Schaumburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RID</Data></Cell>
+			<Cell><Data ss:Type="String">Kehlheim</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RIE</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Meißen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RL</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Mittelsachsen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RM</Data></Cell>
+			<Cell><Data ss:Type="String">Mecklenburgische Seenplatte</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RN</Data></Cell>
+			<Cell><Data ss:Type="String">Rathenow</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RO</Data></Cell>
+			<Cell><Data ss:Type="String">Rosenheim (Stadt und Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ROD</Data></Cell>
+			<Cell><Data ss:Type="String">Cham, Schwandorf</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ROF</Data></Cell>
+			<Cell><Data ss:Type="String">Hersfeld-Rotenburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ROK</Data></Cell>
+			<Cell><Data ss:Type="String">Donnersbergkreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ROL</Data></Cell>
+			<Cell><Data ss:Type="String">Kehlheim</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ROS</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Rostock</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ROT</Data></Cell>
+			<Cell><Data ss:Type="String">Ansbach</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ROW</Data></Cell>
+			<Cell><Data ss:Type="String">Rotenburg (Wümme)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RP</Data></Cell>
+			<Cell><Data ss:Type="String">Rhein-Pfalz-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RS</Data></Cell>
+			<Cell><Data ss:Type="String">Remscheid</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RSL</Data></Cell>
+			<Cell><Data ss:Type="String">Dessau-Roßlau</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RT</Data></Cell>
+			<Cell><Data ss:Type="String">Reutlingen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RU</Data></Cell>
+			<Cell><Data ss:Type="String">Saalfeld-Rudolstadt</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RÜD</Data></Cell>
+			<Cell><Data ss:Type="String">Rheingau-Taunus Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RÜG</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Vorpommern-Rügen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RV</Data></Cell>
+			<Cell><Data ss:Type="String">Ravensburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RW</Data></Cell>
+			<Cell><Data ss:Type="String">Rottweil</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RY</Data></Cell>
+			<Cell><Data ss:Type="String">Rheydt</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">RZ</Data></Cell>
+			<Cell><Data ss:Type="String">Herzogtum Lauenburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S</Data></Cell>
+			<Cell><Data ss:Type="String">Stuttgart</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SAB</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Trier-Saarburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SAD</Data></Cell>
+			<Cell><Data ss:Type="String">Schwandorf</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SÄK</Data></Cell>
+			<Cell><Data ss:Type="String">Säckingen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SAN</Data></Cell>
+			<Cell><Data ss:Type="String">Kulmbach, Kronach</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SAW</Data></Cell>
+			<Cell><Data ss:Type="String">Altmarkkreis-Salzwedel</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SB</Data></Cell>
+			<Cell><Data ss:Type="String">Saarbrücken</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SBG</Data></Cell>
+			<Cell><Data ss:Type="String">Vorpommern-Greifswald</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SBG</Data></Cell>
+			<Cell><Data ss:Type="String">Vorpommern-Greifswald</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SBK</Data></Cell>
+			<Cell><Data ss:Type="String">Salzlandkreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SC</Data></Cell>
+			<Cell><Data ss:Type="String">Schwabach</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SCZ</Data></Cell>
+			<Cell><Data ss:Type="String">Saale-Orla-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SDH</Data></Cell>
+			<Cell><Data ss:Type="String">Kyffhäuserkreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SDL</Data></Cell>
+			<Cell><Data ss:Type="String">Stendal</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SDT</Data></Cell>
+			<Cell><Data ss:Type="String">Schwedt/Oder</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SE</Data></Cell>
+			<Cell><Data ss:Type="String">Segeberg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SEB</Data></Cell>
+			<Cell><Data ss:Type="String">Märkisch Oderland</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SEE</Data></Cell>
+			<Cell><Data ss:Type="String">Märkisch Oderland</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SEF</Data></Cell>
+			<Cell><Data ss:Type="String">Neustadt a. d. Aisch-Bad Windsheim</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SEL</Data></Cell>
+			<Cell><Data ss:Type="String">Wunsiedel i. Fichtelgebirge</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SF</Data></Cell>
+			<Cell><Data ss:Type="String">Oberalgäu in Sonthofen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SFA</Data></Cell>
+			<Cell><Data ss:Type="String">Soltau-Fallingborstel</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SFB</Data></Cell>
+			<Cell><Data ss:Type="String">Oberspreewald-Lausitz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SFT</Data></Cell>
+			<Cell><Data ss:Type="String">Salzlandkreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SG</Data></Cell>
+			<Cell><Data ss:Type="String">Solingen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SGH</Data></Cell>
+			<Cell><Data ss:Type="String">Mansfeld-Südharz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SHA</Data></Cell>
+			<Cell><Data ss:Type="String">Schwäbisch Hall</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SHG</Data></Cell>
+			<Cell><Data ss:Type="String">Schaumburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SHK</Data></Cell>
+			<Cell><Data ss:Type="String">Saale-Holzland-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SHL</Data></Cell>
+			<Cell><Data ss:Type="String">Suhl</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SI</Data></Cell>
+			<Cell><Data ss:Type="String">Siegen-Wittgenstein</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SIG</Data></Cell>
+			<Cell><Data ss:Type="String">Sigmaringen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SIM</Data></Cell>
+			<Cell><Data ss:Type="String">Rhein-Hunsrück-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SK</Data></Cell>
+			<Cell><Data ss:Type="String">Saalekreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SL</Data></Cell>
+			<Cell><Data ss:Type="String">Schleswig-Flensburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SLE</Data></Cell>
+			<Cell><Data ss:Type="String">Euskirchen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SLF</Data></Cell>
+			<Cell><Data ss:Type="String">Saalfeld-Rudolstadt</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SLG</Data></Cell>
+			<Cell><Data ss:Type="String">Saulgau Württemberg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SLK</Data></Cell>
+			<Cell><Data ss:Type="String">Salzlandkreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SLN</Data></Cell>
+			<Cell><Data ss:Type="String">Altenburger Land</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SLS</Data></Cell>
+			<Cell><Data ss:Type="String">Saarlouis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SLÜ</Data></Cell>
+			<Cell><Data ss:Type="String">Main-Kinzig-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SLZ</Data></Cell>
+			<Cell><Data ss:Type="String">Wartburgkreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SM</Data></Cell>
+			<Cell><Data ss:Type="String">Schmalkalden-Meiningen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SMÜ</Data></Cell>
+			<Cell><Data ss:Type="String">Schwabmünchen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SN</Data></Cell>
+			<Cell><Data ss:Type="String">Schwerin, Stadt</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SNH</Data></Cell>
+			<Cell><Data ss:Type="String">Sinsheim Elsenz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SO</Data></Cell>
+			<Cell><Data ss:Type="String">Soest</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SOB</Data></Cell>
+			<Cell><Data ss:Type="String">Neuburg-Schrobenhausen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SOG</Data></Cell>
+			<Cell><Data ss:Type="String">Weilheim-Schongau</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SOK</Data></Cell>
+			<Cell><Data ss:Type="String">Saale-Orla-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SOL</Data></Cell>
+			<Cell><Data ss:Type="String">Soltau</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SÖM</Data></Cell>
+			<Cell><Data ss:Type="String">Sömmerda</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SON</Data></Cell>
+			<Cell><Data ss:Type="String">Sonneberg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP</Data></Cell>
+			<Cell><Data ss:Type="String">Speyer</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPB</Data></Cell>
+			<Cell><Data ss:Type="String">Spree-Neiße</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPN</Data></Cell>
+			<Cell><Data ss:Type="String">Spree-Neiße</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPR</Data></Cell>
+			<Cell><Data ss:Type="String">Springe</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SR</Data></Cell>
+			<Cell><Data ss:Type="String">Straubing (Stadt und Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SRB</Data></Cell>
+			<Cell><Data ss:Type="String">Märkisch Oderland</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SRO</Data></Cell>
+			<Cell><Data ss:Type="String">Saale-Holzland-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ST</Data></Cell>
+			<Cell><Data ss:Type="String">Steinfurt</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">STA</Data></Cell>
+			<Cell><Data ss:Type="String">Starnberg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">STB</Data></Cell>
+			<Cell><Data ss:Type="String">Ludwigslust-Parchim</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">STB</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Nordwestmecklenburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">STD</Data></Cell>
+			<Cell><Data ss:Type="String">Stade</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">STE</Data></Cell>
+			<Cell><Data ss:Type="String">Lichtenfels</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">STH</Data></Cell>
+			<Cell><Data ss:Type="String">Schaumburg-Lippe in Stadthagen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">STL</Data></Cell>
+			<Cell><Data ss:Type="String">Erzgebirgskreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">STO</Data></Cell>
+			<Cell><Data ss:Type="String">Stockach Baden</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SU</Data></Cell>
+			<Cell><Data ss:Type="String">Rhein-Sieg-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SUL</Data></Cell>
+			<Cell><Data ss:Type="String">Amberg-Sulzbach</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SÜW</Data></Cell>
+			<Cell><Data ss:Type="String">Südliche Weinstraße</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SW</Data></Cell>
+			<Cell><Data ss:Type="String">Schweinfurt (Stadt und Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SWA</Data></Cell>
+			<Cell><Data ss:Type="String">Rheingau-Taubus-Kreis in Bad Schwalbach</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SY</Data></Cell>
+			<Cell><Data ss:Type="String">Grafschaft Hoya in Syke</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SZ</Data></Cell>
+			<Cell><Data ss:Type="String">Salzgitter</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SZB</Data></Cell>
+			<Cell><Data ss:Type="String">Erzgebirgskreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TBB</Data></Cell>
+			<Cell><Data ss:Type="String">Main-Tauber-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TDO</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Nordsachsen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TE</Data></Cell>
+			<Cell><Data ss:Type="String">Steinfurt</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TET</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Rostock</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TF</Data></Cell>
+			<Cell><Data ss:Type="String">Teltow-Fläming</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TG</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Nordsachsen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TIR</Data></Cell>
+			<Cell><Data ss:Type="String">Tirschenreuth</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TO</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Nordsachsen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TÖL</Data></Cell>
+			<Cell><Data ss:Type="String">Bad Tölz-Wolfratshausen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TÖN</Data></Cell>
+			<Cell><Data ss:Type="String">Eiderstedt in Tönning Nordseebad</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TP</Data></Cell>
+			<Cell><Data ss:Type="String">Templin</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TR</Data></Cell>
+			<Cell><Data ss:Type="String">Trier</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TS</Data></Cell>
+			<Cell><Data ss:Type="String">Traunstein</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TT</Data></Cell>
+			<Cell><Data ss:Type="String">Tettnang Württemberg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TÜ</Data></Cell>
+			<Cell><Data ss:Type="String">Tübingen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">TUT</Data></Cell>
+			<Cell><Data ss:Type="String">Tuttlingen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ÜB</Data></Cell>
+			<Cell><Data ss:Type="String">Überlingen Bodensee</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">UE</Data></Cell>
+			<Cell><Data ss:Type="String">Uelzen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">UEM</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Vorpommern-Greifswald</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">UER</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Vorpommern-Greifswald</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">UFF</Data></Cell>
+			<Cell><Data ss:Type="String">Neustadt a. d. Aisch-Bad Windsheim</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">UH</Data></Cell>
+			<Cell><Data ss:Type="String">Unstrut-Hainich-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">UL</Data></Cell>
+			<Cell><Data ss:Type="String">Ulm (Stadt und Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">UM</Data></Cell>
+			<Cell><Data ss:Type="String">Uckermark</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">UN</Data></Cell>
+			<Cell><Data ss:Type="String">Unna</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">USI</Data></Cell>
+			<Cell><Data ss:Type="String">Hochtaunuskreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">V</Data></Cell>
+			<Cell><Data ss:Type="String">Vogtlandkreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">VAI</Data></Cell>
+			<Cell><Data ss:Type="String">Vaihingen Enz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">VB</Data></Cell>
+			<Cell><Data ss:Type="String">Vogelsbergkreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">VEC</Data></Cell>
+			<Cell><Data ss:Type="String">Vechta</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">VER</Data></Cell>
+			<Cell><Data ss:Type="String">Verden</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">VG</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Vorpommern-Greifswald</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">VIB</Data></Cell>
+			<Cell><Data ss:Type="String">Rottal-Inn</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">VIE</Data></Cell>
+			<Cell><Data ss:Type="String">Viersen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">VIT</Data></Cell>
+			<Cell><Data ss:Type="String">Viechtach</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">VK</Data></Cell>
+			<Cell><Data ss:Type="String">Völklingen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">VL</Data></Cell>
+			<Cell><Data ss:Type="String">Villingen Schwarzwald</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">VOF</Data></Cell>
+			<Cell><Data ss:Type="String">Vilshofen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">VOH</Data></Cell>
+			<Cell><Data ss:Type="String">Neustadt a. d. Waldnaab</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">VR</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Vorpommern-Rügen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">VS</Data></Cell>
+			<Cell><Data ss:Type="String">Schwarzwald-Baar-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">W</Data></Cell>
+			<Cell><Data ss:Type="String">Wuppertal</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WA</Data></Cell>
+			<Cell><Data ss:Type="String">Waldeck in Korbach</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WAF</Data></Cell>
+			<Cell><Data ss:Type="String">Warendorf</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WAK</Data></Cell>
+			<Cell><Data ss:Type="String">Wartburgkreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WAN</Data></Cell>
+			<Cell><Data ss:Type="String">Herne</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WAR</Data></Cell>
+			<Cell><Data ss:Type="String">Warburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WAT</Data></Cell>
+			<Cell><Data ss:Type="String">Bochum</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WB</Data></Cell>
+			<Cell><Data ss:Type="String">Wittenberg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WBS</Data></Cell>
+			<Cell><Data ss:Type="String">Eichsfeld</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WD</Data></Cell>
+			<Cell><Data ss:Type="String">Wiedenbrück</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WDA</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Zwickau</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WE</Data></Cell>
+			<Cell><Data ss:Type="String">Weimar</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WEB</Data></Cell>
+			<Cell><Data ss:Type="String">Oberwesterwaldkreis in Westerburg Westerwald</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WEG</Data></Cell>
+			<Cell><Data ss:Type="String">Wegscheid</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WEL</Data></Cell>
+			<Cell><Data ss:Type="String">Limburg-Weilburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WEM</Data></Cell>
+			<Cell><Data ss:Type="String">Wesermünde in Bremerhaven</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WEN</Data></Cell>
+			<Cell><Data ss:Type="String">Weiden in der Oberpfalz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WER</Data></Cell>
+			<Cell><Data ss:Type="String">Dillingen a. d. Donau</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WES</Data></Cell>
+			<Cell><Data ss:Type="String">Wesel</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WF</Data></Cell>
+			<Cell><Data ss:Type="String">Wolfenbüttel</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WG</Data></Cell>
+			<Cell><Data ss:Type="String">Wangen Allgäu</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WHV</Data></Cell>
+			<Cell><Data ss:Type="String">Wilhelmshaven</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WI</Data></Cell>
+			<Cell><Data ss:Type="String">Wiesbaden</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WIL</Data></Cell>
+			<Cell><Data ss:Type="String">Bernkastel-Wittlich</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WIS</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Nordwestmecklenburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WIT</Data></Cell>
+			<Cell><Data ss:Type="String">Ennepe-Ruhr-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WIZ</Data></Cell>
+			<Cell><Data ss:Type="String">Witzenhausen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WK</Data></Cell>
+			<Cell><Data ss:Type="String">Ostprignitz-Ruppin</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WL</Data></Cell>
+			<Cell><Data ss:Type="String">Harburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WLG</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Vorpommern-Greifswald</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WM</Data></Cell>
+			<Cell><Data ss:Type="String">Weilheim-Schongau</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WMS</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Börde</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WN</Data></Cell>
+			<Cell><Data ss:Type="String">Rems-Murr-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WND</Data></Cell>
+			<Cell><Data ss:Type="String">St. Wendel</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WO</Data></Cell>
+			<Cell><Data ss:Type="String">Worms</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WOB</Data></Cell>
+			<Cell><Data ss:Type="String">Wolfsburg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WOH</Data></Cell>
+			<Cell><Data ss:Type="String">Kassel (Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WOL</Data></Cell>
+			<Cell><Data ss:Type="String">Wolfach</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WOR</Data></Cell>
+			<Cell><Data ss:Type="String">Bad Tölz-Wolfratshausen, Landkreis München, Starnberg</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WOS</Data></Cell>
+			<Cell><Data ss:Type="String">Freyung-Grafenau</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WR</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Harz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WRN</Data></Cell>
+			<Cell><Data ss:Type="String">Mecklenburgische Seenplatte</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WS</Data></Cell>
+			<Cell><Data ss:Type="String">Rosenheim</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WSF</Data></Cell>
+			<Cell><Data ss:Type="String">Burgenlandkreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WST</Data></Cell>
+			<Cell><Data ss:Type="String">Ammerland</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WSW</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Görlitz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WT</Data></Cell>
+			<Cell><Data ss:Type="String">Waldshut</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WTL</Data></Cell>
+			<Cell><Data ss:Type="String">Wittlage</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WTM</Data></Cell>
+			<Cell><Data ss:Type="String">Wittmund</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WÜ</Data></Cell>
+			<Cell><Data ss:Type="String">Würzburg (Stadt und Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WUG</Data></Cell>
+			<Cell><Data ss:Type="String">Weißenburg-Gunzenhausen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WÜM</Data></Cell>
+			<Cell><Data ss:Type="String">Cham</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WUN</Data></Cell>
+			<Cell><Data ss:Type="String">Wunsiedel</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WUR</Data></Cell>
+			<Cell><Data ss:Type="String">Leipzig (Kreis)</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WW</Data></Cell>
+			<Cell><Data ss:Type="String">Westerwaldkreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WZ</Data></Cell>
+			<Cell><Data ss:Type="String">Lahn-Dill-Kreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">WZL</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Börde</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Z</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Zwickau</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ZE</Data></Cell>
+			<Cell><Data ss:Type="String">Anhalt-Bitterfeld</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ZEL</Data></Cell>
+			<Cell><Data ss:Type="String">Cochem-Zell</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ZI</Data></Cell>
+			<Cell><Data ss:Type="String">Landkreis Görlitz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ZIG</Data></Cell>
+			<Cell><Data ss:Type="String">Ziegenhain Bz. Kassel</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ZP</Data></Cell>
+			<Cell><Data ss:Type="String">Erzgebirgskreis</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ZR</Data></Cell>
+			<Cell><Data ss:Type="String">Greiz</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ZS</Data></Cell>
+			<Cell><Data ss:Type="String">Zossen</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ZW</Data></Cell>
+			<Cell><Data ss:Type="String">Zweibrücken</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">ZZ</Data></Cell>
+			<Cell><Data ss:Type="String">Burgenlandkreis</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

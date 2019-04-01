@@ -1,0 +1,3887 @@
+<DATA>
+
+	<ROW>
+		<abbreviation>A</abbreviation>
+		<name>Augsburg (Stadt und Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>AA</abbreviation>
+		<name>Ostalbkreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>AB</abbreviation>
+		<name>Aschaffenburg (Stadt und Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ABG</abbreviation>
+		<name>Altenburger Land</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ABI</abbreviation>
+		<name>Anhalt-Bitterfeld</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>AC</abbreviation>
+		<name>Aachen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>AE</abbreviation>
+		<name>Vogtlandkreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>AH</abbreviation>
+		<name>Borken</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>AIB</abbreviation>
+		<name>Rosenheim, Landkreis München</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>AIC</abbreviation>
+		<name>Aichach-Friedberg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>AK</abbreviation>
+		<name>Altenkirchen Westerwald</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>AL</abbreviation>
+		<name>Altena</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ALF</abbreviation>
+		<name>Hildesheim</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ALS</abbreviation>
+		<name>Vogelsbergkreis in Alsfeld Oberhessen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ALZ</abbreviation>
+		<name>Aschaffenburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>AM</abbreviation>
+		<name>Amberg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>AN</abbreviation>
+		<name>Ansbach (Stadt und Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ANA</abbreviation>
+		<name>Erzgebirgskreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ANG</abbreviation>
+		<name>Angermünde</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ANK</abbreviation>
+		<name>Vorpommern-Greifswald</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>AÖ</abbreviation>
+		<name>Altötting</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>AP</abbreviation>
+		<name>Weimarer Land</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>APD</abbreviation>
+		<name>Weimarer Land</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>AR</abbreviation>
+		<name>Arnsberg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ARN</abbreviation>
+		<name>Ilm-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ART</abbreviation>
+		<name>Kyffhäuserkreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>AS</abbreviation>
+		<name>Amberg-Sulzbach</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ASD</abbreviation>
+		<name>Aschendorf-Hümmeling in Papenburg-Aschendorf</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ASL</abbreviation>
+		<name>Salzlandkreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ASZ</abbreviation>
+		<name>Erzgebirgskreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>AT</abbreviation>
+		<name>Mecklenburgische Seenplatte</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>AU</abbreviation>
+		<name>Erzgebirgskreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>AUR</abbreviation>
+		<name>Aurich</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>AW</abbreviation>
+		<name>Ahrweiler</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>AZ</abbreviation>
+		<name>Alzey-Worms</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>AZE</abbreviation>
+		<name>Anhalt-Bitterfeld</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>B</abbreviation>
+		<name>Berlin</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BA</abbreviation>
+		<name>Bamberg (Stadt und Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BAD</abbreviation>
+		<name>Baden-Baden</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BAR</abbreviation>
+		<name>Barnim</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BB</abbreviation>
+		<name>Böblingen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BBG</abbreviation>
+		<name>Salzlandkreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BC</abbreviation>
+		<name>Biberach</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BCH</abbreviation>
+		<name>Neckar-Odenwald-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BE</abbreviation>
+		<name>Beckum</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BED</abbreviation>
+		<name>Landkreis Mittelsachsen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BEI</abbreviation>
+		<name>Beilngries</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BEL</abbreviation>
+		<name>Belzig</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BER</abbreviation>
+		<name>Barnim</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BF</abbreviation>
+		<name>Steinfurt</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BGD</abbreviation>
+		<name>Berchtesgaden</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BGL</abbreviation>
+		<name>Berchtesgadener Land</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BH</abbreviation>
+		<name>Bühl Baden</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BI</abbreviation>
+		<name>Bielefeld</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BID</abbreviation>
+		<name>Marburg-Biedenkopf</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BIN</abbreviation>
+		<name>Mainz-Bingen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BIR</abbreviation>
+		<name>Birkenfeld Nahe Kreis, Idar-Oberstein</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BIT</abbreviation>
+		<name>Bitburg-Prüm (Eifelkreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BIW</abbreviation>
+		<name>Landkreis Bautzen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BK</abbreviation>
+		<name>Landkreis Börde</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BK</abbreviation>
+		<name>Backnang</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BKS</abbreviation>
+		<name>Bernkastel-Wittlich</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BL</abbreviation>
+		<name>Zollernalbkreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BLB</abbreviation>
+		<name>Siegen-Wittgenstein</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BLK</abbreviation>
+		<name>Burgenlandkreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BM</abbreviation>
+		<name>Rhein-Erft-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BN</abbreviation>
+		<name>Bonn</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BNA</abbreviation>
+		<name>Landkreis Leipzig</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BO</abbreviation>
+		<name>Bochum</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BÖ</abbreviation>
+		<name>Landkreis Börde</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BOG</abbreviation>
+		<name>Bogen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BOH</abbreviation>
+		<name>Borken</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BOH</abbreviation>
+		<name>Bocholt, Stadt</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BOR</abbreviation>
+		<name>Borken</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BOT</abbreviation>
+		<name>Bottrop</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BR</abbreviation>
+		<name>Bruchsal</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BRA</abbreviation>
+		<name>Wesermarsch</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BRB</abbreviation>
+		<name>Brandenburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BRG</abbreviation>
+		<name>Jerichower Land</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BRI</abbreviation>
+		<name>Brilon</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BRK</abbreviation>
+		<name>Bad Kissingen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BRL</abbreviation>
+		<name>Goslar</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BRV</abbreviation>
+		<name>Rotenburg (Wümme)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BS</abbreviation>
+		<name>Braunschweig</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BSB</abbreviation>
+		<name>Bersenbrück</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BSK</abbreviation>
+		<name>Beeskow</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BT</abbreviation>
+		<name>Bayreuth (Stadt und Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BTF</abbreviation>
+		<name>Landkreis Anhalt-Bitterfeld</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BU</abbreviation>
+		<name>Burgdorf</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BÜD</abbreviation>
+		<name>Wetteraukreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BUL</abbreviation>
+		<name>Schwandorf, Amberg-Sulzbach</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BÜR</abbreviation>
+		<name>Büren</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BÜS</abbreviation>
+		<name>Konstanz, Gemeinde Büsingen am Hochrhein</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BÜZ</abbreviation>
+		<name>Landkreis Rostock</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BZ</abbreviation>
+		<name>Landkreis Bautzen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>BZA</abbreviation>
+		<name>Bergzabern</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>C</abbreviation>
+		<name>Chemnitz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>CA</abbreviation>
+		<name>Oberspreewald-Lausitz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>CAS</abbreviation>
+		<name>Recklinghausen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>CB</abbreviation>
+		<name>Cottbus</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>CE</abbreviation>
+		<name>Celle</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>CHA</abbreviation>
+		<name>Cham</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>CLP</abbreviation>
+		<name>Cloppenburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>CLZ</abbreviation>
+		<name>Goslar</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>CO</abbreviation>
+		<name>Coburg (Stadt und Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>COC</abbreviation>
+		<name>Cochem-Zell</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>COE</abbreviation>
+		<name>Coesfeld</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>CR</abbreviation>
+		<name>Crailsheim</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>CUX</abbreviation>
+		<name>Cuxhaven</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>CW</abbreviation>
+		<name>Calw</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>D</abbreviation>
+		<name>Düsseldorf</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>DA</abbreviation>
+		<name>Darmstadt</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>DA</abbreviation>
+		<name>Darmstadt-Dieburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>DAH</abbreviation>
+		<name>Dachau</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>DAN</abbreviation>
+		<name>Lüchow-Dannenberg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>DAU</abbreviation>
+		<name>Daun</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>DBR</abbreviation>
+		<name>Landkreis Rostock</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>DBR</abbreviation>
+		<name>Bad Doberan</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>DD</abbreviation>
+		<name>Dresden</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>DE</abbreviation>
+		<name>Dessau-Roßlau</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>DEG</abbreviation>
+		<name>Deggendorf</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>DEL</abbreviation>
+		<name>Delmenhorst</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>DGF</abbreviation>
+		<name>Dingolfing-Landau</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>DH</abbreviation>
+		<name>Diepholz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>DI</abbreviation>
+		<name>Darmstadt-Dieburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>DIL</abbreviation>
+		<name>Dillkreis in Dillenburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>DIN</abbreviation>
+		<name>Wesel</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>DIZ</abbreviation>
+		<name>Rhein-Lahn-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>DKB</abbreviation>
+		<name>Ansbach</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>DL</abbreviation>
+		<name>Landkreis Mittelsachsen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>DLG</abbreviation>
+		<name>Dillingen an der Donau</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>DM</abbreviation>
+		<name>Mecklenburgische Seenplatte</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>DN</abbreviation>
+		<name>Düren</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>DO</abbreviation>
+		<name>Dortmund</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>DON</abbreviation>
+		<name>Donau-Ries</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>DS</abbreviation>
+		<name>Donauschingen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>DT</abbreviation>
+		<name>Lippe in Detmold</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>DU</abbreviation>
+		<name>Duisburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>DUD</abbreviation>
+		<name>Landkreis Göttingen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>DÜW</abbreviation>
+		<name>Bad Dürkheim</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>DW</abbreviation>
+		<name>Sächsische Schweiz-Osterzgebirge</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>DZ</abbreviation>
+		<name>Landkreis Nordsachsen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>E</abbreviation>
+		<name>Essen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>EA</abbreviation>
+		<name>Eisenach</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>EB</abbreviation>
+		<name>Landkreis Nordsachsen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>EBE</abbreviation>
+		<name>Ebersberg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>EBN</abbreviation>
+		<name>Ebern</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>EBS</abbreviation>
+		<name>Kulmbach, Bayreuth, Forchheim</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ECK</abbreviation>
+		<name>Rendsburg-Eckernförde</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ED</abbreviation>
+		<name>Erding</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>EE</abbreviation>
+		<name>Elbe-Elster</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>EF</abbreviation>
+		<name>Erfurt</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>EG</abbreviation>
+		<name>Rottal-Inn</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>EH</abbreviation>
+		<name>Eisenhüttenstadt</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>EHI</abbreviation>
+		<name>Ehingen Donau</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>EI</abbreviation>
+		<name>Eichstätt</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>EIC</abbreviation>
+		<name>Eichsfeld</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>EIH</abbreviation>
+		<name>Eichstätt</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>EIL</abbreviation>
+		<name>Mansfeld-Südharz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>EIN</abbreviation>
+		<name>Northeim</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>EIS</abbreviation>
+		<name>Saale-Holzland-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>EL</abbreviation>
+		<name>Emsland</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>EM</abbreviation>
+		<name>Emmendingen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>EMD</abbreviation>
+		<name>Emden</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>EMS</abbreviation>
+		<name>Rhein-Lahn-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>EN</abbreviation>
+		<name>Ennepe-Ruhr-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ER</abbreviation>
+		<name>Erlangen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ERB</abbreviation>
+		<name>Odenwaldkreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ERH</abbreviation>
+		<name>Erlangen-Höchstadt</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ERK</abbreviation>
+		<name>Erkelenz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ERZ</abbreviation>
+		<name>Erzgebirgskreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ES</abbreviation>
+		<name>Esslingen am Neckar</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ESA</abbreviation>
+		<name>Eisennach</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ESB</abbreviation>
+		<name>Neustadt a. d. Waldnaab, Amberg-Sulzbach, Bayreuth, Nürnberger Land</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ESW</abbreviation>
+		<name>Werra-Meißner-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>EU</abbreviation>
+		<name>Euskirchen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>EUT</abbreviation>
+		<name>Eutin</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>EW</abbreviation>
+		<name>Barnim</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>F</abbreviation>
+		<name>Frankfurt am Main</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>FAL</abbreviation>
+		<name>Fallingborstel</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>FB</abbreviation>
+		<name>Wetteraukreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>FD</abbreviation>
+		<name>Fulda</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>FDB</abbreviation>
+		<name>Aichach-Friedberg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>FDS</abbreviation>
+		<name>Freudenstadt</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>FEU</abbreviation>
+		<name>Ansbach</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>FF</abbreviation>
+		<name>Frankfurt (Oder)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>FFB</abbreviation>
+		<name>Fürstenfeldbruck</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>FG</abbreviation>
+		<name>Landkreis Mittelsachsen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>FH</abbreviation>
+		<name>Main-Taunus-Kreis in Frankfurt Main-Höchst</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>FI</abbreviation>
+		<name>Elbe-Elster</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>FKB</abbreviation>
+		<name>Frankenberg Eder</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>FL</abbreviation>
+		<name>Flensburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>FLÖ</abbreviation>
+		<name>Landkreis Mittelsachsen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>FN</abbreviation>
+		<name>Bodenseekreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>FO</abbreviation>
+		<name>Forchheim</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>FOR</abbreviation>
+		<name>Spree-Neiße</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>FR</abbreviation>
+		<name>Freiburg im Breisgau</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>FR</abbreviation>
+		<name>Breisgau-Hochschwarzwald</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>FRG</abbreviation>
+		<name>Freyung-Grafenau</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>FRI</abbreviation>
+		<name>Friesland</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>FRW</abbreviation>
+		<name>Märkisch-Oderland</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>FS</abbreviation>
+		<name>Freising</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>FT</abbreviation>
+		<name>Frankenthal</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>FTL</abbreviation>
+		<name>Sächsische Schweiz-Osterzgebirge</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>FÜ</abbreviation>
+		<name>Fürth (Stadt und Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>FÜS</abbreviation>
+		<name>Ostallgäu</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>FW</abbreviation>
+		<name>Fürstenwalde</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>FZ</abbreviation>
+		<name>Fritzlar-Homberg in Fritzlar</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>G</abbreviation>
+		<name>Gera</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GA</abbreviation>
+		<name>Altmarkkreis-Salzwedel</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GAN</abbreviation>
+		<name>Northeim</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GAP</abbreviation>
+		<name>Garmisch-Partenkirchen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GC</abbreviation>
+		<name>Landkreis Zwickau</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GD</abbreviation>
+		<name>Ostalbkreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GD</abbreviation>
+		<name>Schwäbisch Gmünd</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GDB</abbreviation>
+		<name>Landkreis Nordwestmecklenburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GE</abbreviation>
+		<name>Gelsenkirchen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GEL</abbreviation>
+		<name>Geldern</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GEM</abbreviation>
+		<name>Gemünden am Main</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GEO</abbreviation>
+		<name>Schweinfurt</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GER</abbreviation>
+		<name>Germersheim</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GF</abbreviation>
+		<name>Gifhorn</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GG</abbreviation>
+		<name>Groß-Gerau</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GHA</abbreviation>
+		<name>Landkreis Leipzig</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GHC</abbreviation>
+		<name>Wittenberg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GI</abbreviation>
+		<name>Gießen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GK</abbreviation>
+		<name>Region Aachen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GL</abbreviation>
+		<name>Rheinisch-Bergischer Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GLA</abbreviation>
+		<name>Recklinghausen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GM</abbreviation>
+		<name>Oberbergischer Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GMN</abbreviation>
+		<name>Landkreis Vorpommern-Rügen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GN</abbreviation>
+		<name>Main-Kinzig-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GNT</abbreviation>
+		<name>Jerichower Land</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GÖ</abbreviation>
+		<name>Göttingen (Stadt und Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GOA</abbreviation>
+		<name>Rhein-Hunsrück-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GOH</abbreviation>
+		<name>Rhein-Lahn-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GP</abbreviation>
+		<name>Göppingen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GR</abbreviation>
+		<name>Landkreis Görlitz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GRA</abbreviation>
+		<name>Freyung-Grafenau</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GRH</abbreviation>
+		<name>Landkreis Meißen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GRI</abbreviation>
+		<name>Rottal-Inn</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GRM</abbreviation>
+		<name>Landkreis Leipzig</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GRS</abbreviation>
+		<name>Gransee</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GRZ</abbreviation>
+		<name>Greiz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GS</abbreviation>
+		<name>Goslar</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GT</abbreviation>
+		<name>Gütersloh</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GTH</abbreviation>
+		<name>Gotha</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GÜ</abbreviation>
+		<name>Landkreis Rostock</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GUB</abbreviation>
+		<name>Spree-Neiße</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GUN</abbreviation>
+		<name>Weißenburg-Gunzenhausen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GV</abbreviation>
+		<name>Grevenbroich</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GVM</abbreviation>
+		<name>Landkreis Nordwestmecklenburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GW</abbreviation>
+		<name>Landkreis Vorpommern-Greifswald</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>GZ</abbreviation>
+		<name>Günzburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>H</abbreviation>
+		<name>Hannover (Stadt und Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HA</abbreviation>
+		<name>Hagen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HAB</abbreviation>
+		<name>Bad Kissingen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HAL</abbreviation>
+		<name>Halle (Saale)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HAM</abbreviation>
+		<name>Hamm</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HAS</abbreviation>
+		<name>Haßberge</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HB</abbreviation>
+		<name>Freie Hansestadt Bremen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HBN</abbreviation>
+		<name>Hildburghausen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HBS</abbreviation>
+		<name>Landkreis Harz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HC</abbreviation>
+		<name>Landkreis Mittelsachsen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HCH</abbreviation>
+		<name>Zollernalbkreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HCH</abbreviation>
+		<name>Hechingen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HD</abbreviation>
+		<name>Heidelberg (Stadt und Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HDH</abbreviation>
+		<name>Heidenheim (Brenz)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HDL</abbreviation>
+		<name>Landkreis Börde</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HE</abbreviation>
+		<name>Helmstedt</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HEB</abbreviation>
+		<name>Nürnberger Land</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HEF</abbreviation>
+		<name>Hersfeld-Rotenburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HEI</abbreviation>
+		<name>Dithmarschen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HER</abbreviation>
+		<name>Herne</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HET</abbreviation>
+		<name>Mansfeld-Südharz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HF</abbreviation>
+		<name>Herford</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HG</abbreviation>
+		<name>Hochtaunuskreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HGN</abbreviation>
+		<name>Landkreis Ludwigslust-Parchim</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HGW</abbreviation>
+		<name>Hansestadt Greifswald</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HH</abbreviation>
+		<name>Freie und Hansestadt Hamburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HHM</abbreviation>
+		<name>Burgenlandkreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HI</abbreviation>
+		<name>Hildesheim</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HIG</abbreviation>
+		<name>Eichsfeld</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HIP</abbreviation>
+		<name>Roth</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HK</abbreviation>
+		<name>Heidekreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HL</abbreviation>
+		<name>Hansestadt Lübeck</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HM</abbreviation>
+		<name>Hameln-Pyrmont</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HMÜ</abbreviation>
+		<name>Landkreis Göttingen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HN</abbreviation>
+		<name>Heilbronn Neckar (Stadt und Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HO</abbreviation>
+		<name>Hof (Stadt und Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HOG</abbreviation>
+		<name>Kassel (Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HOH</abbreviation>
+		<name>Hofhein in Unterfranken</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HOL</abbreviation>
+		<name>Holzminden</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HOM</abbreviation>
+		<name>Saarpfalz-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HOR</abbreviation>
+		<name>Horb Neckar</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HÖS</abbreviation>
+		<name>Höchstadt an der Aisch</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HOT</abbreviation>
+		<name>Landkreis Zwickau</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HP</abbreviation>
+		<name>Bergstraße</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HR</abbreviation>
+		<name>Schwalm-Eder-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HRO</abbreviation>
+		<name>Hansestadt Rostock</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HS</abbreviation>
+		<name>Heinsberg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HSK</abbreviation>
+		<name>Hochsauerlandkreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HST</abbreviation>
+		<name>Hansestadt Stralsund</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HU</abbreviation>
+		<name>Main-Kinzig-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HÜN</abbreviation>
+		<name>Hünfeld</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HUS</abbreviation>
+		<name>Husum</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HV</abbreviation>
+		<name>Stendal</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HVL</abbreviation>
+		<name>Havelland</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HW</abbreviation>
+		<name>Halle</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HWI</abbreviation>
+		<name>Hansestadt Wismar</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HX</abbreviation>
+		<name>Höxter</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HY</abbreviation>
+		<name>Landkreis Bautzen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HZ</abbreviation>
+		<name>Landkreis Harz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>HZ</abbreviation>
+		<name>Herzberg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>IGB</abbreviation>
+		<name>St. Ingbert</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>IK</abbreviation>
+		<name>Ilm-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>IL</abbreviation>
+		<name>Ilm-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ILL</abbreviation>
+		<name>Neu-Ulm</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>IN</abbreviation>
+		<name>Ingolstadt</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>IS</abbreviation>
+		<name>Iserlohn</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>IZ</abbreviation>
+		<name>Steinburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>J</abbreviation>
+		<name>Jena</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>JB</abbreviation>
+		<name>Jüterbog</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>JE</abbreviation>
+		<name>Wittenberg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>JEV</abbreviation>
+		<name>Friesland in Jever</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>JL</abbreviation>
+		<name>Jerichower Land</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>JÜL</abbreviation>
+		<name>Düren</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>K</abbreviation>
+		<name>Köln</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KA</abbreviation>
+		<name>Karlsruhe (Stadt und Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KAR</abbreviation>
+		<name>Main-Spessart in Karlstadt</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KB</abbreviation>
+		<name>Waldeck-Frankenberg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KC</abbreviation>
+		<name>Kronach</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KE</abbreviation>
+		<name>Kempten</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KEH</abbreviation>
+		<name>Kelheim</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KEL</abbreviation>
+		<name>Kehl</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KEM</abbreviation>
+		<name>Tirschenreuth, Bayreuth</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KF</abbreviation>
+		<name>Kaufbeuren</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KG</abbreviation>
+		<name>Bad Kissingen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KH</abbreviation>
+		<name>Bad Kreuznach</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KI</abbreviation>
+		<name>Kiel</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KIB</abbreviation>
+		<name>Donnersbergkreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KK</abbreviation>
+		<name>Kempen-Krefeld in Karlstadt</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KL</abbreviation>
+		<name>Kaiserslautern (Stadt und Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KLE</abbreviation>
+		<name>Kleve</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KLZ</abbreviation>
+		<name>Altmarkkreis-Salzwedel</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KM</abbreviation>
+		<name>Landkreis Bautzen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KN</abbreviation>
+		<name>Konstanz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KO</abbreviation>
+		<name>Koblenz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KÖN</abbreviation>
+		<name>Rhön-Grabfeld</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KÖT</abbreviation>
+		<name>Anhalt-Bitterfeld</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KÖZ</abbreviation>
+		<name>Cham</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KR</abbreviation>
+		<name>Krefeld</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KRU</abbreviation>
+		<name>Günzburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KS</abbreviation>
+		<name>Kassel (Stadt und Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KT</abbreviation>
+		<name>Kitzingen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KU</abbreviation>
+		<name>Kulmbach</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KÜN</abbreviation>
+		<name>Hohenlohekreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KUS</abbreviation>
+		<name>Kusel</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KW</abbreviation>
+		<name>Königs Wusterhausen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KY</abbreviation>
+		<name>Ostprignitz-Ruppin</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>KYF</abbreviation>
+		<name>Kyffhäuserkreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>L</abbreviation>
+		<name>Leipzig (Stadt und Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>L</abbreviation>
+		<name>Lahn-Dill-Kreis in Wetzlar</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LA</abbreviation>
+		<name>Landshut (Stadt und Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LAN</abbreviation>
+		<name>Landau an der Isar</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LAT</abbreviation>
+		<name>Vogelsbergkreis in Lauterbach Hessen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LAU</abbreviation>
+		<name>Nürnberger Land</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LB</abbreviation>
+		<name>Ludwigsburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LBS</abbreviation>
+		<name>Saale-Orla-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LBZ</abbreviation>
+		<name>Landkreis Ludwigslust-Parchim</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LC</abbreviation>
+		<name>Luckau</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LDK</abbreviation>
+		<name>Lahn-Dill-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LDS</abbreviation>
+		<name>Dahme-Spreewald</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LE</abbreviation>
+		<name>Lemgo</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LEO</abbreviation>
+		<name>Böblingen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LER</abbreviation>
+		<name>Leer</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LEV</abbreviation>
+		<name>Leverkusen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LF</abbreviation>
+		<name>Laufen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LG</abbreviation>
+		<name>Lüneburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LH</abbreviation>
+		<name>Lüdinghausen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LI</abbreviation>
+		<name>Lindau</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LIB</abbreviation>
+		<name>Bad Liebenwerda</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LIF</abbreviation>
+		<name>Lichtenfels</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LIN</abbreviation>
+		<name>Lingen in Lingen (Ems)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LIP</abbreviation>
+		<name>Lippe</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LK</abbreviation>
+		<name>Lübbecke</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LL</abbreviation>
+		<name>Landsberg am Lech</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LM</abbreviation>
+		<name>Limburg-Weilburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LN</abbreviation>
+		<name>Lübben</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LÖ</abbreviation>
+		<name>Lörrach</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LÖB</abbreviation>
+		<name>Landkreis Görlitz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LOH</abbreviation>
+		<name>Lohr am Main</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LOS</abbreviation>
+		<name>Oder-Spree</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LP</abbreviation>
+		<name>Soest</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LR</abbreviation>
+		<name>Lahr Schwarzwald</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LRO</abbreviation>
+		<name>Landkreis Rostock</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LS</abbreviation>
+		<name>Märkischer Kreis in Lüdenscheid</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LSZ</abbreviation>
+		<name>Unstrut-Hainich-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LU</abbreviation>
+		<name>Ludwigshafen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LÜD</abbreviation>
+		<name>Lüdenscheid</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LUK</abbreviation>
+		<name>Luckenwalde</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LÜN</abbreviation>
+		<name>Unna</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LUP</abbreviation>
+		<name>Ludwigslust-Parchim</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>LWL</abbreviation>
+		<name>Landkreis Ludwigslust-Parchim</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>M</abbreviation>
+		<name>München (Stadt und Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MA</abbreviation>
+		<name>Mannheim</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MAB</abbreviation>
+		<name>Erzgebirgskreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MAI</abbreviation>
+		<name>Kehlheim</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MAK</abbreviation>
+		<name>Wunsiedel i. Fichtelgebirge</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MAL</abbreviation>
+		<name>Mallersdorf</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MAR</abbreviation>
+		<name>Marktheidenfeld</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MB</abbreviation>
+		<name>Miesbach</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MC</abbreviation>
+		<name>Mecklenburgische Seenplatte</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MD</abbreviation>
+		<name>Magdeburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ME</abbreviation>
+		<name>Mettmann</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MED</abbreviation>
+		<name>Süderdithmarschen in Meldorf Holstein</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MEG</abbreviation>
+		<name>Melsungen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MEI</abbreviation>
+		<name>Meißen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MEK</abbreviation>
+		<name>Erzgebirgskreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MEL</abbreviation>
+		<name>Melle</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MEP</abbreviation>
+		<name>Meppen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MER</abbreviation>
+		<name>Saalekreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MES</abbreviation>
+		<name>Hochsauerlandkreis in Meschede</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MET</abbreviation>
+		<name>Rhön-Grabfeld</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MG</abbreviation>
+		<name>Mönchengladbach</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MGH</abbreviation>
+		<name>Bad Mergentheim</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MGN</abbreviation>
+		<name>Schmalkalden-Meiningen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MH</abbreviation>
+		<name>Mülheim an der Ruhr</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MHL</abbreviation>
+		<name>Unstrut-Hainich-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MI</abbreviation>
+		<name>Minden-Lübbecke</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MIL</abbreviation>
+		<name>Miltenberg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MK</abbreviation>
+		<name>Märkischer Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MKK</abbreviation>
+		<name>Main-Kinzig-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ML</abbreviation>
+		<name>Mansfeld-Südharz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MM</abbreviation>
+		<name>Memmingen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MN</abbreviation>
+		<name>Unterallgäu</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MO</abbreviation>
+		<name>Wesel</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MOD</abbreviation>
+		<name>Ostallgäu</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MOL</abbreviation>
+		<name>Märkisch-Oderland</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MON</abbreviation>
+		<name>Region Aachen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MOS</abbreviation>
+		<name>Neckar-Odenwald-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MQ</abbreviation>
+		<name>Saalekreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MR</abbreviation>
+		<name>Marburg-Biedenkopf</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MS</abbreviation>
+		<name>Münster</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MSE</abbreviation>
+		<name>Mecklenburgische Seenplatte</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MSH</abbreviation>
+		<name>Mansfeld-Südharz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MSP</abbreviation>
+		<name>Main-Spessart</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MST</abbreviation>
+		<name>Mecklenburgische Seenplatte</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MT</abbreviation>
+		<name>Westerwald in Motabaur</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MTK</abbreviation>
+		<name>Main-Taunus-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MTL</abbreviation>
+		<name>Landkreis Leipzig</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MÜ</abbreviation>
+		<name>Mühldorf am Inn</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MÜB</abbreviation>
+		<name>Bayreuth</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MÜL</abbreviation>
+		<name>Müllheim Baden</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MÜN</abbreviation>
+		<name>Münsingen Württemberg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MÜR</abbreviation>
+		<name>Mecklenburgische Seenplatte</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MW</abbreviation>
+		<name>Landkreis Mittelsachsen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MY</abbreviation>
+		<name>Mayen-Koblenz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MYK</abbreviation>
+		<name>Mayen-Koblenz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MZ</abbreviation>
+		<name>Mainz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MZ</abbreviation>
+		<name>Mainz-Bingen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>MZG</abbreviation>
+		<name>Merzig-Wadern</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>N</abbreviation>
+		<name>Nürnberg, Nürnberger Land</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NAB</abbreviation>
+		<name>Amberg-Sulzbach, Schwandorf</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NAI</abbreviation>
+		<name>Naila</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NAU</abbreviation>
+		<name>Nauen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NB</abbreviation>
+		<name>Neubrandenburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ND</abbreviation>
+		<name>Neuburg-Schrobenhausen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NDH</abbreviation>
+		<name>Nordhausen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NE</abbreviation>
+		<name>Rhein-Kreis Neuss</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NEA</abbreviation>
+		<name>Neustadt an der Aisch</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NEB</abbreviation>
+		<name>Burgenlandkreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NEC</abbreviation>
+		<name>Coburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NEN</abbreviation>
+		<name>Schwandorf</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NES</abbreviation>
+		<name>Rhön-Grabfeld</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NEU</abbreviation>
+		<name>Hochschwarzwald in Titisee-Neustadt im Hochschwarzwald</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NEW</abbreviation>
+		<name>Neustadt an der Waldnaab</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NF</abbreviation>
+		<name>Nordfriesland</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NH</abbreviation>
+		<name>Sonneberg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NI</abbreviation>
+		<name>Nienburg/Weser</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NIB</abbreviation>
+		<name>Südtondern in Niebüll Schleswig</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NK</abbreviation>
+		<name>Neunkirchen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NM</abbreviation>
+		<name>Neumarkt in der Oberpfalz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NMB</abbreviation>
+		<name>Burgenlandkreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NMS</abbreviation>
+		<name>Neumünster</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NÖ</abbreviation>
+		<name>Donau-Ries</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NOH</abbreviation>
+		<name>Grafschaft Bentheim</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NOL</abbreviation>
+		<name>Landkreis Görlitz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NOM</abbreviation>
+		<name>Northeim</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NOR</abbreviation>
+		<name>Aurich</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NP</abbreviation>
+		<name>Ostprignitz-Ruppin</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NR</abbreviation>
+		<name>Neuwied (Stadt und Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NRÜ</abbreviation>
+		<name>Neustadt am Rübenberge</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NT</abbreviation>
+		<name>Nürtingen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NU</abbreviation>
+		<name>Neu-Ulm</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NVP</abbreviation>
+		<name>Landkreis Vorpommern-Rügen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NW</abbreviation>
+		<name>Neustadt an der Weinstraße</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NWM</abbreviation>
+		<name>Landkreis Nordwestmecklenburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NY</abbreviation>
+		<name>Landkreis Görlitz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>NZ</abbreviation>
+		<name>Mecklenburgische Seenplatte</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>OA</abbreviation>
+		<name>Oberallgäu</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>OAL</abbreviation>
+		<name>Ostallgäu</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>OB</abbreviation>
+		<name>Oberhausen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>OBB</abbreviation>
+		<name>Obernburg am Main</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>OBG</abbreviation>
+		<name>Stendal</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>OC</abbreviation>
+		<name>Landkreis Börde</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>OCH</abbreviation>
+		<name>Würzburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>OD</abbreviation>
+		<name>Stormarn</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>OE</abbreviation>
+		<name>Olpe</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>OF</abbreviation>
+		<name>Offenbach (Stadt und Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>OG</abbreviation>
+		<name>Ortenaukreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>OH</abbreviation>
+		<name>Ostholstein</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>OHA</abbreviation>
+		<name>Osterode am Harz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ÖHR</abbreviation>
+		<name>Öhringen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>OHV</abbreviation>
+		<name>Oberhavel</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>OHZ</abbreviation>
+		<name>Osterholz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>OK</abbreviation>
+		<name>Landkreis Börde</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>OL</abbreviation>
+		<name>Oldenburg (Stadt und Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>OLD</abbreviation>
+		<name>Oldenburg/Holstein</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>OP</abbreviation>
+		<name>Rhein-Wupperkreis in Opladen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>OPR</abbreviation>
+		<name>Ostprignitz-Ruppin</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>OR</abbreviation>
+		<name>Oranienburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>OS</abbreviation>
+		<name>Osnabrück (Stadt und Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>OSL</abbreviation>
+		<name>Oberspreewald-Lausitz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>OTT</abbreviation>
+		<name>Land Hadeln in Otterndorf</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>OTW</abbreviation>
+		<name>Ottweiler</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>OVI</abbreviation>
+		<name>Schwandorf</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>OVL</abbreviation>
+		<name>Vogtlandkreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>OVP</abbreviation>
+		<name>Landkreis Vorpommern-Greifswald</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>OZ</abbreviation>
+		<name>Landkreis Nordsachsen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>P</abbreviation>
+		<name>Potsdam</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>PA</abbreviation>
+		<name>Passau (Stadt und Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>PAF</abbreviation>
+		<name>Pfaffenhofen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>PAN</abbreviation>
+		<name>Rottal-Inn</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>PAR</abbreviation>
+		<name>Neumarkt i. d. Opf., Kehlheim</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>PB</abbreviation>
+		<name>Paderborn</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>PCH</abbreviation>
+		<name>Landkreis Ludwigslust-Parchim</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>PE</abbreviation>
+		<name>Peine</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>PEG</abbreviation>
+		<name>Bayreuth, Forchheim, Nürnberger Land</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>PER</abbreviation>
+		<name>Perleberg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>PF</abbreviation>
+		<name>Pforzheim (Stadt und Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>PI</abbreviation>
+		<name>Pinneberg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>PIR</abbreviation>
+		<name>Sächsische Schweiz-Osterzgebirge</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>PK</abbreviation>
+		<name>Pritzwalk</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>PL</abbreviation>
+		<name>Vogtlandkreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>PLÖ</abbreviation>
+		<name>Plön</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>PM</abbreviation>
+		<name>Potsdam-Mittelmark</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>PN</abbreviation>
+		<name>Saale-Orla-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>PR</abbreviation>
+		<name>Prignitz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>PRÜ</abbreviation>
+		<name>Bitburg-Prüm</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>PS</abbreviation>
+		<name>Pirmasens (Stadt und Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>PW</abbreviation>
+		<name>Landkreis Vorpommern-Greifswald</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>PZ</abbreviation>
+		<name>Prenzlau</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>QFT</abbreviation>
+		<name>Saalekreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>QLB</abbreviation>
+		<name>Landkreis Harz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>R</abbreviation>
+		<name>Regensburg (Stadt und Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>RA</abbreviation>
+		<name>Rastatt</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>RC</abbreviation>
+		<name>Vogtlandkreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>RD</abbreviation>
+		<name>Rendsburg-Eckernförde</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>RDG</abbreviation>
+		<name>Landkreis Vorpommern-Rügen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>RE</abbreviation>
+		<name>Recklinghausen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>REG</abbreviation>
+		<name>Regen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>REH</abbreviation>
+		<name>Wunsiedel i. Fichtelgebirge</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>REI</abbreviation>
+		<name>Berchtesgadener Land in Bad Reichenhall</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>RG</abbreviation>
+		<name>Landkreis Meißen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>RH</abbreviation>
+		<name>Roth</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>RI</abbreviation>
+		<name>Schaumburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>RID</abbreviation>
+		<name>Kehlheim</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>RIE</abbreviation>
+		<name>Landkreis Meißen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>RL</abbreviation>
+		<name>Landkreis Mittelsachsen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>RM</abbreviation>
+		<name>Mecklenburgische Seenplatte</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>RN</abbreviation>
+		<name>Rathenow</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>RO</abbreviation>
+		<name>Rosenheim (Stadt und Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ROD</abbreviation>
+		<name>Cham, Schwandorf</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ROF</abbreviation>
+		<name>Hersfeld-Rotenburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ROK</abbreviation>
+		<name>Donnersbergkreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ROL</abbreviation>
+		<name>Kehlheim</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ROS</abbreviation>
+		<name>Landkreis Rostock</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ROT</abbreviation>
+		<name>Ansbach</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ROW</abbreviation>
+		<name>Rotenburg (Wümme)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>RP</abbreviation>
+		<name>Rhein-Pfalz-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>RS</abbreviation>
+		<name>Remscheid</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>RSL</abbreviation>
+		<name>Dessau-Roßlau</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>RT</abbreviation>
+		<name>Reutlingen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>RU</abbreviation>
+		<name>Saalfeld-Rudolstadt</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>RÜD</abbreviation>
+		<name>Rheingau-Taunus Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>RÜG</abbreviation>
+		<name>Landkreis Vorpommern-Rügen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>RV</abbreviation>
+		<name>Ravensburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>RW</abbreviation>
+		<name>Rottweil</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>RY</abbreviation>
+		<name>Rheydt</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>RZ</abbreviation>
+		<name>Herzogtum Lauenburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>S</abbreviation>
+		<name>Stuttgart</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SAB</abbreviation>
+		<name>Landkreis Trier-Saarburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SAD</abbreviation>
+		<name>Schwandorf</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SÄK</abbreviation>
+		<name>Säckingen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SAN</abbreviation>
+		<name>Kulmbach, Kronach</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SAW</abbreviation>
+		<name>Altmarkkreis-Salzwedel</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SB</abbreviation>
+		<name>Saarbrücken</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SBG</abbreviation>
+		<name>Vorpommern-Greifswald</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SBG</abbreviation>
+		<name>Vorpommern-Greifswald</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SBK</abbreviation>
+		<name>Salzlandkreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SC</abbreviation>
+		<name>Schwabach</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SCZ</abbreviation>
+		<name>Saale-Orla-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SDH</abbreviation>
+		<name>Kyffhäuserkreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SDL</abbreviation>
+		<name>Stendal</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SDT</abbreviation>
+		<name>Schwedt/Oder</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SE</abbreviation>
+		<name>Segeberg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SEB</abbreviation>
+		<name>Märkisch Oderland</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SEE</abbreviation>
+		<name>Märkisch Oderland</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SEF</abbreviation>
+		<name>Neustadt a. d. Aisch-Bad Windsheim</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SEL</abbreviation>
+		<name>Wunsiedel i. Fichtelgebirge</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SF</abbreviation>
+		<name>Oberalgäu in Sonthofen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SFA</abbreviation>
+		<name>Soltau-Fallingborstel</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SFB</abbreviation>
+		<name>Oberspreewald-Lausitz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SFT</abbreviation>
+		<name>Salzlandkreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SG</abbreviation>
+		<name>Solingen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SGH</abbreviation>
+		<name>Mansfeld-Südharz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SHA</abbreviation>
+		<name>Schwäbisch Hall</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SHG</abbreviation>
+		<name>Schaumburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SHK</abbreviation>
+		<name>Saale-Holzland-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SHL</abbreviation>
+		<name>Suhl</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SI</abbreviation>
+		<name>Siegen-Wittgenstein</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SIG</abbreviation>
+		<name>Sigmaringen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SIM</abbreviation>
+		<name>Rhein-Hunsrück-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SK</abbreviation>
+		<name>Saalekreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SL</abbreviation>
+		<name>Schleswig-Flensburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SLE</abbreviation>
+		<name>Euskirchen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SLF</abbreviation>
+		<name>Saalfeld-Rudolstadt</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SLG</abbreviation>
+		<name>Saulgau Württemberg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SLK</abbreviation>
+		<name>Salzlandkreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SLN</abbreviation>
+		<name>Altenburger Land</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SLS</abbreviation>
+		<name>Saarlouis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SLÜ</abbreviation>
+		<name>Main-Kinzig-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SLZ</abbreviation>
+		<name>Wartburgkreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SM</abbreviation>
+		<name>Schmalkalden-Meiningen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SMÜ</abbreviation>
+		<name>Schwabmünchen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SN</abbreviation>
+		<name>Schwerin, Stadt</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SNH</abbreviation>
+		<name>Sinsheim Elsenz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SO</abbreviation>
+		<name>Soest</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SOB</abbreviation>
+		<name>Neuburg-Schrobenhausen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SOG</abbreviation>
+		<name>Weilheim-Schongau</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SOK</abbreviation>
+		<name>Saale-Orla-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SOL</abbreviation>
+		<name>Soltau</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SÖM</abbreviation>
+		<name>Sömmerda</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SON</abbreviation>
+		<name>Sonneberg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SP</abbreviation>
+		<name>Speyer</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SPB</abbreviation>
+		<name>Spree-Neiße</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SPN</abbreviation>
+		<name>Spree-Neiße</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SPR</abbreviation>
+		<name>Springe</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SR</abbreviation>
+		<name>Straubing (Stadt und Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SRB</abbreviation>
+		<name>Märkisch Oderland</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SRO</abbreviation>
+		<name>Saale-Holzland-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ST</abbreviation>
+		<name>Steinfurt</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>STA</abbreviation>
+		<name>Starnberg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>STB</abbreviation>
+		<name>Ludwigslust-Parchim</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>STB</abbreviation>
+		<name>Landkreis Nordwestmecklenburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>STD</abbreviation>
+		<name>Stade</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>STE</abbreviation>
+		<name>Lichtenfels</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>STH</abbreviation>
+		<name>Schaumburg-Lippe in Stadthagen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>STL</abbreviation>
+		<name>Erzgebirgskreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>STO</abbreviation>
+		<name>Stockach Baden</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SU</abbreviation>
+		<name>Rhein-Sieg-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SUL</abbreviation>
+		<name>Amberg-Sulzbach</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SÜW</abbreviation>
+		<name>Südliche Weinstraße</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SW</abbreviation>
+		<name>Schweinfurt (Stadt und Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SWA</abbreviation>
+		<name>Rheingau-Taubus-Kreis in Bad Schwalbach</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SY</abbreviation>
+		<name>Grafschaft Hoya in Syke</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SZ</abbreviation>
+		<name>Salzgitter</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>SZB</abbreviation>
+		<name>Erzgebirgskreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>TBB</abbreviation>
+		<name>Main-Tauber-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>TDO</abbreviation>
+		<name>Landkreis Nordsachsen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>TE</abbreviation>
+		<name>Steinfurt</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>TET</abbreviation>
+		<name>Landkreis Rostock</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>TF</abbreviation>
+		<name>Teltow-Fläming</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>TG</abbreviation>
+		<name>Landkreis Nordsachsen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>TIR</abbreviation>
+		<name>Tirschenreuth</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>TO</abbreviation>
+		<name>Landkreis Nordsachsen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>TÖL</abbreviation>
+		<name>Bad Tölz-Wolfratshausen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>TÖN</abbreviation>
+		<name>Eiderstedt in Tönning Nordseebad</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>TP</abbreviation>
+		<name>Templin</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>TR</abbreviation>
+		<name>Trier</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>TS</abbreviation>
+		<name>Traunstein</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>TT</abbreviation>
+		<name>Tettnang Württemberg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>TÜ</abbreviation>
+		<name>Tübingen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>TUT</abbreviation>
+		<name>Tuttlingen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ÜB</abbreviation>
+		<name>Überlingen Bodensee</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>UE</abbreviation>
+		<name>Uelzen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>UEM</abbreviation>
+		<name>Landkreis Vorpommern-Greifswald</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>UER</abbreviation>
+		<name>Landkreis Vorpommern-Greifswald</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>UFF</abbreviation>
+		<name>Neustadt a. d. Aisch-Bad Windsheim</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>UH</abbreviation>
+		<name>Unstrut-Hainich-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>UL</abbreviation>
+		<name>Ulm (Stadt und Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>UM</abbreviation>
+		<name>Uckermark</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>UN</abbreviation>
+		<name>Unna</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>USI</abbreviation>
+		<name>Hochtaunuskreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>V</abbreviation>
+		<name>Vogtlandkreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>VAI</abbreviation>
+		<name>Vaihingen Enz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>VB</abbreviation>
+		<name>Vogelsbergkreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>VEC</abbreviation>
+		<name>Vechta</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>VER</abbreviation>
+		<name>Verden</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>VG</abbreviation>
+		<name>Landkreis Vorpommern-Greifswald</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>VIB</abbreviation>
+		<name>Rottal-Inn</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>VIE</abbreviation>
+		<name>Viersen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>VIT</abbreviation>
+		<name>Viechtach</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>VK</abbreviation>
+		<name>Völklingen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>VL</abbreviation>
+		<name>Villingen Schwarzwald</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>VOF</abbreviation>
+		<name>Vilshofen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>VOH</abbreviation>
+		<name>Neustadt a. d. Waldnaab</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>VR</abbreviation>
+		<name>Landkreis Vorpommern-Rügen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>VS</abbreviation>
+		<name>Schwarzwald-Baar-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>W</abbreviation>
+		<name>Wuppertal</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WA</abbreviation>
+		<name>Waldeck in Korbach</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WAF</abbreviation>
+		<name>Warendorf</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WAK</abbreviation>
+		<name>Wartburgkreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WAN</abbreviation>
+		<name>Herne</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WAR</abbreviation>
+		<name>Warburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WAT</abbreviation>
+		<name>Bochum</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WB</abbreviation>
+		<name>Wittenberg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WBS</abbreviation>
+		<name>Eichsfeld</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WD</abbreviation>
+		<name>Wiedenbrück</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WDA</abbreviation>
+		<name>Landkreis Zwickau</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WE</abbreviation>
+		<name>Weimar</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WEB</abbreviation>
+		<name>Oberwesterwaldkreis in Westerburg Westerwald</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WEG</abbreviation>
+		<name>Wegscheid</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WEL</abbreviation>
+		<name>Limburg-Weilburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WEM</abbreviation>
+		<name>Wesermünde in Bremerhaven</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WEN</abbreviation>
+		<name>Weiden in der Oberpfalz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WER</abbreviation>
+		<name>Dillingen a. d. Donau</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WES</abbreviation>
+		<name>Wesel</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WF</abbreviation>
+		<name>Wolfenbüttel</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WG</abbreviation>
+		<name>Wangen Allgäu</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WHV</abbreviation>
+		<name>Wilhelmshaven</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WI</abbreviation>
+		<name>Wiesbaden</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WIL</abbreviation>
+		<name>Bernkastel-Wittlich</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WIS</abbreviation>
+		<name>Landkreis Nordwestmecklenburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WIT</abbreviation>
+		<name>Ennepe-Ruhr-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WIZ</abbreviation>
+		<name>Witzenhausen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WK</abbreviation>
+		<name>Ostprignitz-Ruppin</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WL</abbreviation>
+		<name>Harburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WLG</abbreviation>
+		<name>Landkreis Vorpommern-Greifswald</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WM</abbreviation>
+		<name>Weilheim-Schongau</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WMS</abbreviation>
+		<name>Landkreis Börde</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WN</abbreviation>
+		<name>Rems-Murr-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WND</abbreviation>
+		<name>St. Wendel</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WO</abbreviation>
+		<name>Worms</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WOB</abbreviation>
+		<name>Wolfsburg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WOH</abbreviation>
+		<name>Kassel (Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WOL</abbreviation>
+		<name>Wolfach</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WOR</abbreviation>
+		<name>Bad Tölz-Wolfratshausen, Landkreis München, Starnberg</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WOS</abbreviation>
+		<name>Freyung-Grafenau</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WR</abbreviation>
+		<name>Landkreis Harz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WRN</abbreviation>
+		<name>Mecklenburgische Seenplatte</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WS</abbreviation>
+		<name>Rosenheim</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WSF</abbreviation>
+		<name>Burgenlandkreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WST</abbreviation>
+		<name>Ammerland</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WSW</abbreviation>
+		<name>Landkreis Görlitz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WT</abbreviation>
+		<name>Waldshut</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WTL</abbreviation>
+		<name>Wittlage</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WTM</abbreviation>
+		<name>Wittmund</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WÜ</abbreviation>
+		<name>Würzburg (Stadt und Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WUG</abbreviation>
+		<name>Weißenburg-Gunzenhausen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WÜM</abbreviation>
+		<name>Cham</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WUN</abbreviation>
+		<name>Wunsiedel</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WUR</abbreviation>
+		<name>Leipzig (Kreis)</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WW</abbreviation>
+		<name>Westerwaldkreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WZ</abbreviation>
+		<name>Lahn-Dill-Kreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>WZL</abbreviation>
+		<name>Landkreis Börde</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>Z</abbreviation>
+		<name>Landkreis Zwickau</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ZE</abbreviation>
+		<name>Anhalt-Bitterfeld</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ZEL</abbreviation>
+		<name>Cochem-Zell</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ZI</abbreviation>
+		<name>Landkreis Görlitz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ZIG</abbreviation>
+		<name>Ziegenhain Bz. Kassel</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ZP</abbreviation>
+		<name>Erzgebirgskreis</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ZR</abbreviation>
+		<name>Greiz</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ZS</abbreviation>
+		<name>Zossen</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ZW</abbreviation>
+		<name>Zweibrücken</name>
+	</ROW>
+
+	<ROW>
+		<abbreviation>ZZ</abbreviation>
+		<name>Burgenlandkreis</name>
+	</ROW>
+</DATA>
